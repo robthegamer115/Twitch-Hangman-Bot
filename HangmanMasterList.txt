@@ -1,0 +1,3499 @@
+Pokemon Name|Abomasnow
+Pokemon Name|Abra
+Pokemon Name|Absol
+Pokemon Name|Accelgor
+Pokemon Name|Aegislash
+Pokemon Name|Aerodactyl
+Pokemon Name|Aggron
+Pokemon Name|Aipom
+Pokemon Name|Alakazam
+Pokemon Name|Alcremie
+Pokemon Name|Alomomola
+Pokemon Name|Altaria
+Pokemon Name|Amaura
+Pokemon Name|Ambipom
+Pokemon Name|Amoonguss
+Pokemon Name|Ampharos
+Pokemon Name|Anorith
+Pokemon Name|Appletun
+Pokemon Name|Applin
+Pokemon Name|Araquanid
+Pokemon Name|Arbok
+Pokemon Name|Arcanine
+Pokemon Name|Arceus
+Pokemon Name|Archen
+Pokemon Name|Archeops
+Pokemon Name|Arctovish
+Pokemon Name|Arctozolt
+Pokemon Name|Ariados
+Pokemon Name|Armaldo
+Pokemon Name|Aromatisse
+Pokemon Name|Aron
+Pokemon Name|Arrokuda
+Pokemon Name|Articuno
+Pokemon Name|Audino
+Pokemon Name|Aurorus
+Pokemon Name|Avalugg
+Pokemon Name|Axew
+Pokemon Name|Azelf
+Pokemon Name|Azumarill
+Pokemon Name|Azurill
+Pokemon Name|Bagon
+Pokemon Name|Baltoy
+Pokemon Name|Banette
+Pokemon Name|Barbaracle
+Pokemon Name|Barboach
+Pokemon Name|Barraskewda
+Pokemon Name|Basculin
+Pokemon Name|Bastiodon
+Pokemon Name|Bayleef
+Pokemon Name|Beartic
+Pokemon Name|Beautifly
+Pokemon Name|Beedrill
+Pokemon Name|Beheeyem
+Pokemon Name|Beldum
+Pokemon Name|Bellossom
+Pokemon Name|Bellsprout
+Pokemon Name|Bergmite
+Pokemon Name|Bewear
+Pokemon Name|Bibarel
+Pokemon Name|Bidoof
+Pokemon Name|Binacle
+Pokemon Name|Bisharp
+Pokemon Name|Blacephalon
+Pokemon Name|Blastoise
+Pokemon Name|Blaziken
+Pokemon Name|Blipbug
+Pokemon Name|Blissey
+Pokemon Name|Blitzle
+Pokemon Name|Boldore
+Pokemon Name|Boltund
+Pokemon Name|Bonsly
+Pokemon Name|Bouffalant
+Pokemon Name|Bounsweet
+Pokemon Name|Braixen
+Pokemon Name|Braviary
+Pokemon Name|Breloom
+Pokemon Name|Brionne
+Pokemon Name|Bronzong
+Pokemon Name|Bronzor
+Pokemon Name|Bruxish
+Pokemon Name|Budew
+Pokemon Name|Buizel
+Pokemon Name|Bulbasaur
+Pokemon Name|Buneary
+Pokemon Name|Bunnelby
+Pokemon Name|Burmy
+Pokemon Name|Butterfree
+Pokemon Name|Buzzwole
+Pokemon Name|Cacnea
+Pokemon Name|Cacturne
+Pokemon Name|Camerupt
+Pokemon Name|Carbink
+Pokemon Name|Carkol
+Pokemon Name|Carnivine
+Pokemon Name|Carracosta
+Pokemon Name|Carvanha
+Pokemon Name|Cascoon
+Pokemon Name|Castform
+Pokemon Name|Caterpie
+Pokemon Name|Celebi
+Pokemon Name|Celesteela
+Pokemon Name|Centiskorch
+Pokemon Name|Chandelure
+Pokemon Name|Chansey
+Pokemon Name|Charizard
+Pokemon Name|Charjabug
+Pokemon Name|Charmander
+Pokemon Name|Charmeleon
+Pokemon Name|Chatot
+Pokemon Name|Cherrim
+Pokemon Name|Cherubi
+Pokemon Name|Chesnaught
+Pokemon Name|Chespin
+Pokemon Name|Chewtle
+Pokemon Name|Chikorita
+Pokemon Name|Chimchar
+Pokemon Name|Chimecho
+Pokemon Name|Chinchou
+Pokemon Name|Chingling
+Pokemon Name|Cinccino
+Pokemon Name|Cinderace
+Pokemon Name|Clamperl
+Pokemon Name|Clauncher
+Pokemon Name|Clawitzer
+Pokemon Name|Claydol
+Pokemon Name|Clefable
+Pokemon Name|Clefairy
+Pokemon Name|Cleffa
+Pokemon Name|Clobbopus
+Pokemon Name|Cloyster
+Pokemon Name|Coalossal
+Pokemon Name|Cobalion
+Pokemon Name|Cofagrigus
+Pokemon Name|Combee
+Pokemon Name|Combusken
+Pokemon Name|Comfey
+Pokemon Name|Conkeldurr
+Pokemon Name|Copperajah
+Pokemon Name|Corphish
+Pokemon Name|Corsola
+Pokemon Name|Corviknight
+Pokemon Name|Corvisquire
+Pokemon Name|Cosmoem
+Pokemon Name|Cosmog
+Pokemon Name|Cottonee
+Pokemon Name|Crabominable
+Pokemon Name|Crabrawler
+Pokemon Name|Cradily
+Pokemon Name|Cramorant
+Pokemon Name|Cranidos
+Pokemon Name|Crawdaunt
+Pokemon Name|Cresselia
+Pokemon Name|Croagunk
+Pokemon Name|Crobat
+Pokemon Name|Croconaw
+Pokemon Name|Crustle
+Pokemon Name|Cryogonal
+Pokemon Name|Cubchoo
+Pokemon Name|Cubone
+Pokemon Name|Cufant
+Pokemon Name|Cursola
+Pokemon Name|Cutiefly
+Pokemon Name|Cyndaquil
+Pokemon Name|Darkrai
+Pokemon Name|Darmanitan
+Pokemon Name|Dartrix
+Pokemon Name|Darumaka
+Pokemon Name|Decidueye
+Pokemon Name|Dedenne
+Pokemon Name|Deerling
+Pokemon Name|Deino
+Pokemon Name|Delcatty
+Pokemon Name|Delibird
+Pokemon Name|Delphox
+Pokemon Name|Deoxys
+Pokemon Name|Dewgong
+Pokemon Name|Dewott
+Pokemon Name|Dewpider
+Pokemon Name|Dhelmise
+Pokemon Name|Dialga
+Pokemon Name|Diancie
+Pokemon Name|Diggersby
+Pokemon Name|Diglett
+Pokemon Name|Ditto
+Pokemon Name|Dodrio
+Pokemon Name|Doduo
+Pokemon Name|Donphan
+Pokemon Name|Dottler
+Pokemon Name|Doublade
+Pokemon Name|Dracovish
+Pokemon Name|Dracozolt
+Pokemon Name|Dragalge
+Pokemon Name|Dragapult
+Pokemon Name|Dragonair
+Pokemon Name|Dragonite
+Pokemon Name|Drakloak
+Pokemon Name|Drampa
+Pokemon Name|Drapion
+Pokemon Name|Dratini
+Pokemon Name|Drednaw
+Pokemon Name|Dreepy
+Pokemon Name|Drifblim
+Pokemon Name|Drifloon
+Pokemon Name|Drilbur
+Pokemon Name|Drizzile
+Pokemon Name|Drowzee
+Pokemon Name|Druddigon
+Pokemon Name|Dubwool
+Pokemon Name|Ducklett
+Pokemon Name|Dugtrio
+Pokemon Name|Dunsparce
+Pokemon Name|Duosion
+Pokemon Name|Duraludon
+Pokemon Name|Durant
+Pokemon Name|Dusclops
+Pokemon Name|Dusknoir
+Pokemon Name|Duskull
+Pokemon Name|Dustox
+Pokemon Name|Dwebble
+Pokemon Name|Eelektrik
+Pokemon Name|Eelektross
+Pokemon Name|Eevee
+Pokemon Name|Eiscue
+Pokemon Name|Ekans
+Pokemon Name|Eldegoss
+Pokemon Name|Electabuzz
+Pokemon Name|Electivire
+Pokemon Name|Electrike
+Pokemon Name|Electrode
+Pokemon Name|Elekid
+Pokemon Name|Elgyem
+Pokemon Name|Emboar
+Pokemon Name|Emolga
+Pokemon Name|Empoleon
+Pokemon Name|Entei
+Pokemon Name|Escavalier
+Pokemon Name|Espeon
+Pokemon Name|Espurr
+Pokemon Name|Eternatus
+Pokemon Name|Excadrill
+Pokemon Name|Exeggcute
+Pokemon Name|Exeggutor
+Pokemon Name|Exploud
+Pokemon Name|Falinks
+Pokemon Name|Farfetch’d
+Pokemon Name|Fearow
+Pokemon Name|Feebas
+Pokemon Name|Fennekin
+Pokemon Name|Feraligatr
+Pokemon Name|Ferroseed
+Pokemon Name|Ferrothorn
+Pokemon Name|Finneon
+Pokemon Name|Flaaffy
+Pokemon Name|Flabebe
+Pokemon Name|Flapple
+Pokemon Name|Flareon
+Pokemon Name|Fletchinder
+Pokemon Name|Fletchling
+Pokemon Name|Floatzel
+Pokemon Name|Floette
+Pokemon Name|Florges
+Pokemon Name|Flygon
+Pokemon Name|Fomantis
+Pokemon Name|Foongus
+Pokemon Name|Forretress
+Pokemon Name|Fraxure
+Pokemon Name|Frillish
+Pokemon Name|Froakie
+Pokemon Name|Frogadier
+Pokemon Name|Froslass
+Pokemon Name|Frosmoth
+Pokemon Name|Furfrou
+Pokemon Name|Furret
+Pokemon Name|Gabite
+Pokemon Name|Gallade
+Pokemon Name|Galvantula
+Pokemon Name|Garbodor
+Pokemon Name|Garchomp
+Pokemon Name|Gardevoir
+Pokemon Name|Gastly
+Pokemon Name|Gastrodon
+Pokemon Name|Genesect
+Pokemon Name|Gengar
+Pokemon Name|Geodude
+Pokemon Name|Gible
+Pokemon Name|Gigalith
+Pokemon Name|Girafarig
+Pokemon Name|Giratina
+Pokemon Name|Glaceon
+Pokemon Name|Glalie
+Pokemon Name|Glameow
+Pokemon Name|Gligar
+Pokemon Name|Gliscor
+Pokemon Name|Gloom
+Pokemon Name|Gogoat
+Pokemon Name|Golbat
+Pokemon Name|Goldeen
+Pokemon Name|Golduck
+Pokemon Name|Golem
+Pokemon Name|Golett
+Pokemon Name|Golisopod
+Pokemon Name|Golurk
+Pokemon Name|Goodra
+Pokemon Name|Goomy
+Pokemon Name|Gorebyss
+Pokemon Name|Gossifleur
+Pokemon Name|Gothita
+Pokemon Name|Gothitelle
+Pokemon Name|Gothorita
+Pokemon Name|Gourgeist
+Pokemon Name|Granbull
+Pokemon Name|Grapploct
+Pokemon Name|Graveler
+Pokemon Name|Greedent
+Pokemon Name|Greninja
+Pokemon Name|Grimer
+Pokemon Name|Grimmsnarl
+Pokemon Name|Grookey
+Pokemon Name|Grotle
+Pokemon Name|Groudon
+Pokemon Name|Grovyle
+Pokemon Name|Growlithe
+Pokemon Name|Grubbin
+Pokemon Name|Grumpig
+Pokemon Name|Gulpin
+Pokemon Name|Gumshoos
+Pokemon Name|Gurdurr
+Pokemon Name|Guzzlord
+Pokemon Name|Gyarados
+Pokemon Name|Hakamo-o
+Pokemon Name|Happiny
+Pokemon Name|Hariyama
+Pokemon Name|Hatenna
+Pokemon Name|Hatterene
+Pokemon Name|Hattrem
+Pokemon Name|Haunter
+Pokemon Name|Hawlucha
+Pokemon Name|Haxorus
+Pokemon Name|Heatmor
+Pokemon Name|Heatran
+Pokemon Name|Heliolisk
+Pokemon Name|Helioptile
+Pokemon Name|Heracross
+Pokemon Name|Herdier
+Pokemon Name|Hippopotas
+Pokemon Name|Hippowdon
+Pokemon Name|Hitmonchan
+Pokemon Name|Hitmonlee
+Pokemon Name|Hitmontop
+Pokemon Name|Ho-Oh
+Pokemon Name|Honchkrow
+Pokemon Name|Honedge
+Pokemon Name|Hoopa
+Pokemon Name|Hoothoot
+Pokemon Name|Hoppip
+Pokemon Name|Horsea
+Pokemon Name|Houndoom
+Pokemon Name|Houndour
+Pokemon Name|Huntail
+Pokemon Name|Hydreigon
+Pokemon Name|Hypno
+Pokemon Name|Igglybuff
+Pokemon Name|Illumise
+Pokemon Name|Impidimp
+Pokemon Name|Incineroar
+Pokemon Name|Indeedee
+Pokemon Name|Infernape
+Pokemon Name|Inkay
+Pokemon Name|Inteleon
+Pokemon Name|Ivysaur
+Pokemon Name|Jangmo-o
+Pokemon Name|Jellicent
+Pokemon Name|Jigglypuff
+Pokemon Name|Jirachi
+Pokemon Name|Jolteon
+Pokemon Name|Joltik
+Pokemon Name|Jumpluff
+Pokemon Name|Jynx
+Pokemon Name|Kabuto
+Pokemon Name|Kabutops
+Pokemon Name|Kadabra
+Pokemon Name|Kakuna
+Pokemon Name|Kangaskhan
+Pokemon Name|Karrablast
+Pokemon Name|Kartana
+Pokemon Name|Kecleon
+Pokemon Name|Keldeo
+Pokemon Name|Kingdra
+Pokemon Name|Kingler
+Pokemon Name|Kirlia
+Pokemon Name|Klang
+Pokemon Name|Klefki
+Pokemon Name|Klink
+Pokemon Name|Klinklang
+Pokemon Name|Koffing
+Pokemon Name|Komala
+Pokemon Name|Kommo-o
+Pokemon Name|Krabby
+Pokemon Name|Kricketot
+Pokemon Name|Kricketune
+Pokemon Name|Krokorok
+Pokemon Name|Krookodile
+Pokemon Name|Kyogre
+Pokemon Name|Kyurem
+Pokemon Name|Lairon
+Pokemon Name|Lampent
+Pokemon Name|Landorus
+Pokemon Name|Lanturn
+Pokemon Name|Lapras
+Pokemon Name|Larvesta
+Pokemon Name|Larvitar
+Pokemon Name|Latias
+Pokemon Name|Latios
+Pokemon Name|Leafeon
+Pokemon Name|Leavanny
+Pokemon Name|Ledian
+Pokemon Name|Ledyba
+Pokemon Name|Lickilicky
+Pokemon Name|Lickitung
+Pokemon Name|Liepard
+Pokemon Name|Lileep
+Pokemon Name|Lilligant
+Pokemon Name|Lillipup
+Pokemon Name|Linoone
+Pokemon Name|Litleo
+Pokemon Name|Litten
+Pokemon Name|Litwick
+Pokemon Name|Lombre
+Pokemon Name|Lopunny
+Pokemon Name|Lotad
+Pokemon Name|Loudred
+Pokemon Name|Lucario
+Pokemon Name|Ludicolo
+Pokemon Name|Lugia
+Pokemon Name|Lumineon
+Pokemon Name|Lunala
+Pokemon Name|Lunatone
+Pokemon Name|Lurantis
+Pokemon Name|Luvdisc
+Pokemon Name|Luxio
+Pokemon Name|Luxray
+Pokemon Name|Lycanroc
+Pokemon Name|Machamp
+Pokemon Name|Machoke
+Pokemon Name|Machop
+Pokemon Name|Magby
+Pokemon Name|Magcargo
+Pokemon Name|Magearna
+Pokemon Name|Magikarp
+Pokemon Name|Magmar
+Pokemon Name|Magmortar
+Pokemon Name|Magnemite
+Pokemon Name|Magneton
+Pokemon Name|Magnezone
+Pokemon Name|Makuhita
+Pokemon Name|Malamar
+Pokemon Name|Mamoswine
+Pokemon Name|Manaphy
+Pokemon Name|Mandibuzz
+Pokemon Name|Manectric
+Pokemon Name|Mankey
+Pokemon Name|Mantine
+Pokemon Name|Mantyke
+Pokemon Name|Maractus
+Pokemon Name|Mareanie
+Pokemon Name|Mareep
+Pokemon Name|Marill
+Pokemon Name|Marowak
+Pokemon Name|Marshadow
+Pokemon Name|Marshtomp
+Pokemon Name|Masquerain
+Pokemon Name|Mawile
+Pokemon Name|Medicham
+Pokemon Name|Meditite
+Pokemon Name|Meganium
+Pokemon Name|Melmetal
+Pokemon Name|Meloetta
+Pokemon Name|Meltan
+Pokemon Name|Meowstic
+Pokemon Name|Meowth
+Pokemon Name|Mesprit
+Pokemon Name|Metagross
+Pokemon Name|Metang
+Pokemon Name|Metapod
+Pokemon Name|Mew
+Pokemon Name|Mewtwo
+Pokemon Name|Mienfoo
+Pokemon Name|Mienshao
+Pokemon Name|Mightyena
+Pokemon Name|Milcery
+Pokemon Name|Milotic
+Pokemon Name|Miltank
+Pokemon Name|Mime Jr.
+Pokemon Name|Mimikyu
+Pokemon Name|Minccino
+Pokemon Name|Minior
+Pokemon Name|Minun
+Pokemon Name|Misdreavus
+Pokemon Name|Mismagius
+Pokemon Name|Moltres
+Pokemon Name|Monferno
+Pokemon Name|Morelull
+Pokemon Name|Morgrem
+Pokemon Name|Morpeko
+Pokemon Name|Mothim
+Pokemon Name|Mr. Mime
+Pokemon Name|Mr. Rime
+Pokemon Name|Mudbray
+Pokemon Name|Mudkip
+Pokemon Name|Mudsdale
+Pokemon Name|Muk
+Pokemon Name|Munchlax
+Pokemon Name|Munna
+Pokemon Name|Murkrow
+Pokemon Name|Musharna
+Pokemon Name|Naganadel
+Pokemon Name|Natu
+Pokemon Name|Necrozma
+Pokemon Name|Nickit
+Pokemon Name|Nidoking
+Pokemon Name|Nidoqueen
+Pokemon Name|Nidoran
+Pokemon Name|Nidorina
+Pokemon Name|Nidorino
+Pokemon Name|Nihilego
+Pokemon Name|Nincada
+Pokemon Name|Ninetales
+Pokemon Name|Ninjask
+Pokemon Name|Noctowl
+Pokemon Name|Noibat
+Pokemon Name|Noivern
+Pokemon Name|Nosepass
+Pokemon Name|Numel
+Pokemon Name|Nuzleaf
+Pokemon Name|Obstagoon
+Pokemon Name|Octillery
+Pokemon Name|Oddish
+Pokemon Name|Omanyte
+Pokemon Name|Omastar
+Pokemon Name|Onix
+Pokemon Name|Oranguru
+Pokemon Name|Orbeetle
+Pokemon Name|Oricorio
+Pokemon Name|Oshawott
+Pokemon Name|Pachirisu
+Pokemon Name|Palkia
+Pokemon Name|Palossand
+Pokemon Name|Palpitoad
+Pokemon Name|Pancham
+Pokemon Name|Pangoro
+Pokemon Name|Panpour
+Pokemon Name|Pansage
+Pokemon Name|Pansear
+Pokemon Name|Paras
+Pokemon Name|Parasect
+Pokemon Name|Passimian
+Pokemon Name|Patrat
+Pokemon Name|Pawniard
+Pokemon Name|Pelipper
+Pokemon Name|Perrserker
+Pokemon Name|Persian
+Pokemon Name|Petilil
+Pokemon Name|Phanpy
+Pokemon Name|Phantump
+Pokemon Name|Pheromosa
+Pokemon Name|Phione
+Pokemon Name|Pichu
+Pokemon Name|Pidgeot
+Pokemon Name|Pidgeotto
+Pokemon Name|Pidgey
+Pokemon Name|Pidove
+Pokemon Name|Pignite
+Pokemon Name|Pikachu
+Pokemon Name|Pikipek
+Pokemon Name|Piloswine
+Pokemon Name|Pincurchin
+Pokemon Name|Pineco
+Pokemon Name|Pinsir
+Pokemon Name|Piplup
+Pokemon Name|Plusle
+Pokemon Name|Poipole
+Pokemon Name|Politoed
+Pokemon Name|Poliwag
+Pokemon Name|Poliwhirl
+Pokemon Name|Poliwrath
+Pokemon Name|Polteageist
+Pokemon Name|Ponyta
+Pokemon Name|Poochyena
+Pokemon Name|Popplio
+Pokemon Name|Porygon
+Pokemon Name|Porygon-Z
+Pokemon Name|Porygon2
+Pokemon Name|Primarina
+Pokemon Name|Primeape
+Pokemon Name|Prinplup
+Pokemon Name|Probopass
+Pokemon Name|Psyduck
+Pokemon Name|Pumpkaboo
+Pokemon Name|Pupitar
+Pokemon Name|Purrloin
+Pokemon Name|Purugly
+Pokemon Name|Pyroar
+Pokemon Name|Pyukumuku
+Pokemon Name|Quagsire
+Pokemon Name|Quilava
+Pokemon Name|Quilladin
+Pokemon Name|Qwilfish
+Pokemon Name|Raboot
+Pokemon Name|Raichu
+Pokemon Name|Raikou
+Pokemon Name|Ralts
+Pokemon Name|Rampardos
+Pokemon Name|Rapidash
+Pokemon Name|Raticate
+Pokemon Name|Rattata
+Pokemon Name|Rayquaza
+Pokemon Name|Regice
+Pokemon Name|Regigigas
+Pokemon Name|Regirock
+Pokemon Name|Registeel
+Pokemon Name|Relicanth
+Pokemon Name|Remoraid
+Pokemon Name|Reshiram
+Pokemon Name|Reuniclus
+Pokemon Name|Rhydon
+Pokemon Name|Rhyhorn
+Pokemon Name|Rhyperior
+Pokemon Name|Ribombee
+Pokemon Name|Rillaboom
+Pokemon Name|Riolu
+Pokemon Name|Rockruff
+Pokemon Name|Roggenrola
+Pokemon Name|Rolycoly
+Pokemon Name|Rookidee
+Pokemon Name|Roselia
+Pokemon Name|Roserade
+Pokemon Name|Rotom
+Pokemon Name|Rowlet
+Pokemon Name|Rufflet
+Pokemon Name|Runerigus
+Pokemon Name|Sableye
+Pokemon Name|Salamence
+Pokemon Name|Salandit
+Pokemon Name|Salazzle
+Pokemon Name|Samurott
+Pokemon Name|Sandaconda
+Pokemon Name|Sandile
+Pokemon Name|Sandshrew
+Pokemon Name|Sandslash
+Pokemon Name|Sandygast
+Pokemon Name|Sawk
+Pokemon Name|Sawsbuck
+Pokemon Name|Scatterbug
+Pokemon Name|Sceptile
+Pokemon Name|Scizor
+Pokemon Name|Scolipede
+Pokemon Name|Scorbunny
+Pokemon Name|Scrafty
+Pokemon Name|Scraggy
+Pokemon Name|Scyther
+Pokemon Name|Seadra
+Pokemon Name|Seaking
+Pokemon Name|Sealeo
+Pokemon Name|Seedot
+Pokemon Name|Seel
+Pokemon Name|Seismitoad
+Pokemon Name|Sentret
+Pokemon Name|Serperior
+Pokemon Name|Servine
+Pokemon Name|Seviper
+Pokemon Name|Sewaddle
+Pokemon Name|Sharpedo
+Pokemon Name|Shaymin
+Pokemon Name|Shedinja
+Pokemon Name|Shelgon
+Pokemon Name|Shellder
+Pokemon Name|Shellos
+Pokemon Name|Shelmet
+Pokemon Name|Shieldon
+Pokemon Name|Shiftry
+Pokemon Name|Shiinotic
+Pokemon Name|Shinx
+Pokemon Name|Shroomish
+Pokemon Name|Shuckle
+Pokemon Name|Shuppet
+Pokemon Name|Sigilyph
+Pokemon Name|Silcoon
+Pokemon Name|Silicobra
+Pokemon Name|Silvally
+Pokemon Name|Simipour
+Pokemon Name|Simisage
+Pokemon Name|Simisear
+Pokemon Name|Sinistea
+Pokemon Name|Sirfetch'd
+Pokemon Name|Sizzlipede
+Pokemon Name|Skarmory
+Pokemon Name|Skiddo
+Pokemon Name|Skiploom
+Pokemon Name|Skitty
+Pokemon Name|Skorupi
+Pokemon Name|Skrelp
+Pokemon Name|Skuntank
+Pokemon Name|Skwovet
+Pokemon Name|Slaking
+Pokemon Name|Slakoth
+Pokemon Name|Sliggoo
+Pokemon Name|Slowbro
+Pokemon Name|Slowking
+Pokemon Name|Slowpoke
+Pokemon Name|Slugma
+Pokemon Name|Slurpuff
+Pokemon Name|Smeargle
+Pokemon Name|Smoochum
+Pokemon Name|Sneasel
+Pokemon Name|Snivy
+Pokemon Name|Snom
+Pokemon Name|Snorlax
+Pokemon Name|Snorunt
+Pokemon Name|Snover
+Pokemon Name|Snubbull
+Pokemon Name|Sobble
+Pokemon Name|Solgaleo
+Pokemon Name|Solosis
+Pokemon Name|Solrock
+Pokemon Name|Spearow
+Pokemon Name|Spewpa
+Pokemon Name|Spheal
+Pokemon Name|Spinarak
+Pokemon Name|Spinda
+Pokemon Name|Spiritomb
+Pokemon Name|Spoink
+Pokemon Name|Spritzee
+Pokemon Name|Squirtle
+Pokemon Name|Stakataka
+Pokemon Name|Stantler
+Pokemon Name|Staraptor
+Pokemon Name|Staravia
+Pokemon Name|Starly
+Pokemon Name|Starmie
+Pokemon Name|Staryu
+Pokemon Name|Steelix
+Pokemon Name|Steenee
+Pokemon Name|Stonjourner
+Pokemon Name|Stoutland
+Pokemon Name|Stufful
+Pokemon Name|Stunfisk
+Pokemon Name|Stunky
+Pokemon Name|Sudowoodo
+Pokemon Name|Suicune
+Pokemon Name|Sunflora
+Pokemon Name|Sunkern
+Pokemon Name|Surskit
+Pokemon Name|Swablu
+Pokemon Name|Swadloon
+Pokemon Name|Swalot
+Pokemon Name|Swampert
+Pokemon Name|Swanna
+Pokemon Name|Swellow
+Pokemon Name|Swinub
+Pokemon Name|Swirlix
+Pokemon Name|Swoobat
+Pokemon Name|Sylveon
+Pokemon Name|Taillow
+Pokemon Name|Talonflame
+Pokemon Name|Tangela
+Pokemon Name|Tangrowth
+Pokemon Name|Tapu Bulu
+Pokemon Name|Tapu Fini
+Pokemon Name|Tapu Koko
+Pokemon Name|Tapu Lele
+Pokemon Name|Tauros
+Pokemon Name|Teddiursa
+Pokemon Name|Tentacool
+Pokemon Name|Tentacruel
+Pokemon Name|Tepig
+Pokemon Name|Terrakion
+Pokemon Name|Thievul
+Pokemon Name|Throh
+Pokemon Name|Thundurus
+Pokemon Name|Thwackey
+Pokemon Name|Timburr
+Pokemon Name|Tirtouga
+Pokemon Name|Togedemaru
+Pokemon Name|Togekiss
+Pokemon Name|Togepi
+Pokemon Name|Togetic
+Pokemon Name|Torchic
+Pokemon Name|Torkoal
+Pokemon Name|Tornadus
+Pokemon Name|Torracat
+Pokemon Name|Torterra
+Pokemon Name|Totodile
+Pokemon Name|Toucannon
+Pokemon Name|Toxapex
+Pokemon Name|Toxel
+Pokemon Name|Toxicroak
+Pokemon Name|Toxtricity
+Pokemon Name|Tranquill
+Pokemon Name|Trapinch
+Pokemon Name|Treecko
+Pokemon Name|Trevenant
+Pokemon Name|Tropius
+Pokemon Name|Trubbish
+Pokemon Name|Trumbeak
+Pokemon Name|Tsareena
+Pokemon Name|Turtonator
+Pokemon Name|Turtwig
+Pokemon Name|Tympole
+Pokemon Name|Tynamo
+Pokemon Name|Type: Null
+Pokemon Name|Typhlosion
+Pokemon Name|Tyranitar
+Pokemon Name|Tyrantrum
+Pokemon Name|Tyrogue
+Pokemon Name|Tyrunt
+Pokemon Name|Umbreon
+Pokemon Name|Unfezant
+Pokemon Name|Unown
+Pokemon Name|Ursaring
+Pokemon Name|Uxie
+Pokemon Name|Vanillish
+Pokemon Name|Vanillite
+Pokemon Name|Vanilluxe
+Pokemon Name|Vaporeon
+Pokemon Name|Venipede
+Pokemon Name|Venomoth
+Pokemon Name|Venonat
+Pokemon Name|Venusaur
+Pokemon Name|Vespiquen
+Pokemon Name|Vibrava
+Pokemon Name|Victini
+Pokemon Name|Victreebel
+Pokemon Name|Vigoroth
+Pokemon Name|Vikavolt
+Pokemon Name|Vileplume
+Pokemon Name|Virizion
+Pokemon Name|Vivillon
+Pokemon Name|Volbeat
+Pokemon Name|Volcanion
+Pokemon Name|Volcarona
+Pokemon Name|Voltorb
+Pokemon Name|Vullaby
+Pokemon Name|Vulpix
+Pokemon Name|Wailmer
+Pokemon Name|Wailord
+Pokemon Name|Walrein
+Pokemon Name|Wartortle
+Pokemon Name|Watchog
+Pokemon Name|Weavile
+Pokemon Name|Weedle
+Pokemon Name|Weepinbell
+Pokemon Name|Weezing
+Pokemon Name|Whimsicott
+Pokemon Name|Whirlipede
+Pokemon Name|Whiscash
+Pokemon Name|Whismur
+Pokemon Name|Wigglytuff
+Pokemon Name|Wimpod
+Pokemon Name|Wingull
+Pokemon Name|Wishiwashi
+Pokemon Name|Wobbuffet
+Pokemon Name|Woobat
+Pokemon Name|Wooloo
+Pokemon Name|Wooper
+Pokemon Name|Wormadam
+Pokemon Name|Wurmple
+Pokemon Name|Wynaut
+Pokemon Name|Xatu
+Pokemon Name|Xerneas
+Pokemon Name|Xurkitree
+Pokemon Name|Yamask
+Pokemon Name|Yamper
+Pokemon Name|Yanma
+Pokemon Name|Yanmega
+Pokemon Name|Yungoos
+Pokemon Name|Yveltal
+Pokemon Name|Zacian
+Pokemon Name|Zamazenta
+Pokemon Name|Zangoose
+Pokemon Name|Zapdos
+Pokemon Name|Zebstrika
+Pokemon Name|Zekrom
+Pokemon Name|Zeraora
+Pokemon Name|Zigzagoon
+Pokemon Name|Zoroark
+Pokemon Name|Zorua
+Pokemon Name|Zubat
+Pokemon Name|Zweilous
+Pokemon Name|Zygarde
+Pokemon Ability|Adaptability
+Pokemon Ability|Aerilate
+Pokemon Ability|Aftermath
+Pokemon Ability|Air Lock
+Pokemon Ability|Analytic
+Pokemon Ability|Anger Point
+Pokemon Ability|Anticipation
+Pokemon Ability|Arena Trap
+Pokemon Ability|Aroma Veil
+Pokemon Ability|Aura Break
+Pokemon Ability|Bad Dreams
+Pokemon Ability|Ball Fetch
+Pokemon Ability|Battery
+Pokemon Ability|Battle Armor
+Pokemon Ability|Battle Bond
+Pokemon Ability|Beast Boost
+Pokemon Ability|Berserk
+Pokemon Ability|Big Pecks
+Pokemon Ability|Blaze
+Pokemon Ability|Bulletproof
+Pokemon Ability|Cacophony
+Pokemon Ability|Cheek Pouch
+Pokemon Ability|Chlorophyll
+Pokemon Ability|Clear Body
+Pokemon Ability|Cloud Nine
+Pokemon Ability|Color Change
+Pokemon Ability|Comatose
+Pokemon Ability|Competitive
+Pokemon Ability|Compound Eyes
+Pokemon Ability|Contrary
+Pokemon Ability|Corrosion
+Pokemon Ability|Cotton Down
+Pokemon Ability|Cursed Body
+Pokemon Ability|Cute Charm
+Pokemon Ability|Damp
+Pokemon Ability|Dancer
+Pokemon Ability|Dark Aura
+Pokemon Ability|Dauntless Shield
+Pokemon Ability|Dazzling
+Pokemon Ability|Defeatist
+Pokemon Ability|Defiant
+Pokemon Ability|Delta Stream
+Pokemon Ability|Desolate Land
+Pokemon Ability|Disguise
+Pokemon Ability|Download
+Pokemon Ability|Drizzle
+Pokemon Ability|Drought
+Pokemon Ability|Dry Skin
+Pokemon Ability|Early Bird
+Pokemon Ability|Effect Spore
+Pokemon Ability|Electric Surge
+Pokemon Ability|Emergency Exit
+Pokemon Ability|Fairy Aura
+Pokemon Ability|Filter
+Pokemon Ability|Flame Body
+Pokemon Ability|Flare Boost
+Pokemon Ability|Flash Fire
+Pokemon Ability|Flower Gift
+Pokemon Ability|Flower Veil
+Pokemon Ability|Fluffy
+Pokemon Ability|Forecast
+Pokemon Ability|Forewarn
+Pokemon Ability|Friend Guard
+Pokemon Ability|Frisk
+Pokemon Ability|Full Metal Body
+Pokemon Ability|Fur Coat
+Pokemon Ability|Gale Wings
+Pokemon Ability|Galvanize
+Pokemon Ability|Gluttony
+Pokemon Ability|Gooey
+Pokemon Ability|Gorilla Tactics
+Pokemon Ability|Grass Pelt
+Pokemon Ability|Grassy Surge
+Pokemon Ability|Gulp Missile
+Pokemon Ability|Guts
+Pokemon Ability|Harvest
+Pokemon Ability|Healer
+Pokemon Ability|Heatproof
+Pokemon Ability|Heavy Metal
+Pokemon Ability|Honey Gather
+Pokemon Ability|Huge Power
+Pokemon Ability|Hunger Switch
+Pokemon Ability|Hustle
+Pokemon Ability|Hydration
+Pokemon Ability|Hyper Cutter
+Pokemon Ability|Ice Body
+Pokemon Ability|Ice Face
+Pokemon Ability|Ice Scales
+Pokemon Ability|Illuminate
+Pokemon Ability|Illusion
+Pokemon Ability|Immunity
+Pokemon Ability|Imposter
+Pokemon Ability|Infiltrator
+Pokemon Ability|Innards Out
+Pokemon Ability|Inner Focus
+Pokemon Ability|Insomnia
+Pokemon Ability|Intimidate
+Pokemon Ability|Intrepid Sword
+Pokemon Ability|Iron Barbs
+Pokemon Ability|Iron Fist
+Pokemon Ability|Justified
+Pokemon Ability|Keen Eye
+Pokemon Ability|Klutz
+Pokemon Ability|Leaf Guard
+Pokemon Ability|Levitate
+Pokemon Ability|Libero
+Pokemon Ability|Light Metal
+Pokemon Ability|Lightning Rod
+Pokemon Ability|Limber
+Pokemon Ability|Liquid Ooze
+Pokemon Ability|Liquid Voice
+Pokemon Ability|Long Reach
+Pokemon Ability|Magic Bounce
+Pokemon Ability|Magic Guard
+Pokemon Ability|Magician
+Pokemon Ability|Magma Armor
+Pokemon Ability|Magnet Pull
+Pokemon Ability|Marvel Scale
+Pokemon Ability|Mega Launcher
+Pokemon Ability|Merciless
+Pokemon Ability|Mimicry
+Pokemon Ability|Minus
+Pokemon Ability|Mirror Armor
+Pokemon Ability|Misty Surge
+Pokemon Ability|Mold Breaker
+Pokemon Ability|Moody
+Pokemon Ability|Motor Drive
+Pokemon Ability|Moxie
+Pokemon Ability|Multiscale
+Pokemon Ability|Multitype
+Pokemon Ability|Mummy
+Pokemon Ability|Natural Cure
+Pokemon Ability|Neuroforce
+Pokemon Ability|Neutralizing Gas
+Pokemon Ability|No Guard
+Pokemon Ability|Normalize
+Pokemon Ability|Oblivious
+Pokemon Ability|Overcoat
+Pokemon Ability|Overgrow
+Pokemon Ability|Own Tempo
+Pokemon Ability|Parental Bond
+Pokemon Ability|Pastel Veil
+Pokemon Ability|Perish Body
+Pokemon Ability|Pickpocket
+Pokemon Ability|Pickup
+Pokemon Ability|Pixilate
+Pokemon Ability|Plus
+Pokemon Ability|Poison Heal
+Pokemon Ability|Poison Point
+Pokemon Ability|Poison Touch
+Pokemon Ability|Power Construct
+Pokemon Ability|Power Spot
+Pokemon Ability|Power of Alchemy
+Pokemon Ability|Prankster
+Pokemon Ability|Pressure
+Pokemon Ability|Primordial Sea
+Pokemon Ability|Prism Armor
+Pokemon Ability|Propeller Tail
+Pokemon Ability|Protean
+Pokemon Ability|Psychic Surge
+Pokemon Ability|Punk Rock
+Pokemon Ability|Pure Power
+Pokemon Ability|Queenly Majesty
+Pokemon Ability|Quick Feet
+Pokemon Ability|RKS System
+Pokemon Ability|Rain Dish
+Pokemon Ability|Rattled
+Pokemon Ability|Receiver
+Pokemon Ability|Reckless
+Pokemon Ability|Refrigerate
+Pokemon Ability|Regenerator
+Pokemon Ability|Ripen
+Pokemon Ability|Rivalry
+Pokemon Ability|Rock Head
+Pokemon Ability|Rough Skin
+Pokemon Ability|Run Away
+Pokemon Ability|Sand Force
+Pokemon Ability|Sand Rush
+Pokemon Ability|Sand Spit
+Pokemon Ability|Sand Stream
+Pokemon Ability|Sand Veil
+Pokemon Ability|Sap Sipper
+Pokemon Ability|Schooling
+Pokemon Ability|Scrappy
+Pokemon Ability|Screen Cleaner
+Pokemon Ability|Serene Grace
+Pokemon Ability|Shadow Shield
+Pokemon Ability|Shadow Tag
+Pokemon Ability|Shed Skin
+Pokemon Ability|Sheer Force
+Pokemon Ability|Shell Armor
+Pokemon Ability|Shield Dust
+Pokemon Ability|Shields Down
+Pokemon Ability|Simple
+Pokemon Ability|Skill Link
+Pokemon Ability|Slow Start
+Pokemon Ability|Slush Rush
+Pokemon Ability|Sniper
+Pokemon Ability|Snow Cloak
+Pokemon Ability|Snow Warning
+Pokemon Ability|Solar Power
+Pokemon Ability|Solid Rock
+Pokemon Ability|Soul-Heart
+Pokemon Ability|Soundproof
+Pokemon Ability|Speed Boost
+Pokemon Ability|Stakeout
+Pokemon Ability|Stall
+Pokemon Ability|Stalwart
+Pokemon Ability|Stamina
+Pokemon Ability|Stance Change
+Pokemon Ability|Static
+Pokemon Ability|Steadfast
+Pokemon Ability|Steam Engine
+Pokemon Ability|Steelworker
+Pokemon Ability|Steely Spirit
+Pokemon Ability|Stench
+Pokemon Ability|Sticky Hold
+Pokemon Ability|Storm Drain
+Pokemon Ability|Strong Jaw
+Pokemon Ability|Sturdy
+Pokemon Ability|Suction Cups
+Pokemon Ability|Super Luck
+Pokemon Ability|Surge Surfer
+Pokemon Ability|Swarm
+Pokemon Ability|Sweet Veil
+Pokemon Ability|Swift Swim
+Pokemon Ability|Symbiosis
+Pokemon Ability|Synchronize
+Pokemon Ability|Tangled Feet
+Pokemon Ability|Technician
+Pokemon Ability|Telepathy
+Pokemon Ability|Teravolt
+Pokemon Ability|Thick Fat
+Pokemon Ability|Tinted Lens
+Pokemon Ability|Torrent
+Pokemon Ability|Tough Claws
+Pokemon Ability|Toxic Boost
+Pokemon Ability|Trace
+Pokemon Ability|Triage
+Pokemon Ability|Truant
+Pokemon Ability|Turboblaze
+Pokemon Ability|Unaware
+Pokemon Ability|Unburden
+Pokemon Ability|Unnerve
+Pokemon Ability|Victory Star
+Pokemon Ability|Vital Spirit
+Pokemon Ability|Volt Absorb
+Pokemon Ability|Wandering Spirit
+Pokemon Ability|Water Absorb
+Pokemon Ability|Water Bubble
+Pokemon Ability|Water Compaction
+Pokemon Ability|Water Veil
+Pokemon Ability|Weak Armor
+Pokemon Ability|White Smoke
+Pokemon Ability|Wimp Out
+Pokemon Ability|Wonder Guard
+Pokemon Ability|Wonder Skin
+Pokemon Ability|Zen Mode
+Pokemon Move|10,000,000 Volt Thunderbolt
+Pokemon Move|Absorb
+Pokemon Move|Accelerock
+Pokemon Move|Acid
+Pokemon Move|Acid Armor
+Pokemon Move|Acid Downpour
+Pokemon Move|Acid Spray
+Pokemon Move|Acrobatics
+Pokemon Move|Acupressure
+Pokemon Move|Aerial Ace
+Pokemon Move|Aeroblast
+Pokemon Move|After You
+Pokemon Move|Agility
+Pokemon Move|Air Cutter
+Pokemon Move|Air Slash
+Pokemon Move|All-Out Pummeling
+Pokemon Move|Ally Switch
+Pokemon Move|Amnesia
+Pokemon Move|Anchor Shot
+Pokemon Move|Ancient Power
+Pokemon Move|Apple Acid
+Pokemon Move|Aqua Jet
+Pokemon Move|Aqua Ring
+Pokemon Move|Aqua Tail
+Pokemon Move|Arm Thrust
+Pokemon Move|Aromatherapy
+Pokemon Move|Aromatic Mist
+Pokemon Move|Assist
+Pokemon Move|Assurance
+Pokemon Move|Astonish
+Pokemon Move|Attack Order
+Pokemon Move|Attract
+Pokemon Move|Aura Sphere
+Pokemon Move|Aura Wheel
+Pokemon Move|Aurora Beam
+Pokemon Move|Aurora Veil
+Pokemon Move|Autotomize
+Pokemon Move|Avalanche
+Pokemon Move|Baby-Doll Eyes
+Pokemon Move|Baddy Bad
+Pokemon Move|Baneful Bunker
+Pokemon Move|Barrage
+Pokemon Move|Barrier
+Pokemon Move|Baton Pass
+Pokemon Move|Beak Blast
+Pokemon Move|Beat Up
+Pokemon Move|Behemoth Bash
+Pokemon Move|Behemoth Blade
+Pokemon Move|Belch
+Pokemon Move|Belly Drum
+Pokemon Move|Bestow
+Pokemon Move|Bide
+Pokemon Move|Bind
+Pokemon Move|Bite
+Pokemon Move|Black Hole Eclipse
+Pokemon Move|Blast Burn
+Pokemon Move|Blaze Kick
+Pokemon Move|Blizzard
+Pokemon Move|Block
+Pokemon Move|Bloom Doom
+Pokemon Move|Blue Flare
+Pokemon Move|Body Press
+Pokemon Move|Body Slam
+Pokemon Move|Bolt Beak
+Pokemon Move|Bolt Strike
+Pokemon Move|Bone Club
+Pokemon Move|Bone Rush
+Pokemon Move|Bonemerang
+Pokemon Move|Boomburst
+Pokemon Move|Bounce
+Pokemon Move|Bouncy Bubble
+Pokemon Move|Branch Poke
+Pokemon Move|Brave Bird
+Pokemon Move|Breaking Swipe
+Pokemon Move|Breakneck Blitz
+Pokemon Move|Brick Break
+Pokemon Move|Brine
+Pokemon Move|Brutal Swing
+Pokemon Move|Bubble
+Pokemon Move|Bubble Beam
+Pokemon Move|Bug Bite
+Pokemon Move|Bug Buzz
+Pokemon Move|Bulk Up
+Pokemon Move|Bulldoze
+Pokemon Move|Bullet Punch
+Pokemon Move|Bullet Seed
+Pokemon Move|Burn Up
+Pokemon Move|Buzzy Buzz
+Pokemon Move|Calm Mind
+Pokemon Move|Camouflage
+Pokemon Move|Captivate
+Pokemon Move|Catastropika
+Pokemon Move|Celebrate
+Pokemon Move|Charge
+Pokemon Move|Charge Beam
+Pokemon Move|Charm
+Pokemon Move|Chatter
+Pokemon Move|Chip Away
+Pokemon Move|Circle Throw
+Pokemon Move|Clamp
+Pokemon Move|Clanging Scales
+Pokemon Move|Clangorous Soul
+Pokemon Move|Clangorous Soulblaze
+Pokemon Move|Clear Smog
+Pokemon Move|Close Combat
+Pokemon Move|Coil
+Pokemon Move|Comet Punch
+Pokemon Move|Confide
+Pokemon Move|Confuse Ray
+Pokemon Move|Confusion
+Pokemon Move|Constrict
+Pokemon Move|Continental Crush
+Pokemon Move|Conversion
+Pokemon Move|Conversion 2
+Pokemon Move|Copycat
+Pokemon Move|Core Enforcer
+Pokemon Move|Corkscrew Crash
+Pokemon Move|Cosmic Power
+Pokemon Move|Cotton Guard
+Pokemon Move|Cotton Spore
+Pokemon Move|Counter
+Pokemon Move|Court Change
+Pokemon Move|Covet
+Pokemon Move|Crabhammer
+Pokemon Move|Crafty Shield
+Pokemon Move|Cross Chop
+Pokemon Move|Cross Poison
+Pokemon Move|Crunch
+Pokemon Move|Crush Claw
+Pokemon Move|Crush Grip
+Pokemon Move|Curse
+Pokemon Move|Cut
+Pokemon Move|Dark Pulse
+Pokemon Move|Dark Void
+Pokemon Move|Darkest Lariat
+Pokemon Move|Dazzling Gleam
+Pokemon Move|Decorate
+Pokemon Move|Defend Order
+Pokemon Move|Defense Curl
+Pokemon Move|Defog
+Pokemon Move|Destiny Bond
+Pokemon Move|Detect
+Pokemon Move|Devastating Drake
+Pokemon Move|Diamond Storm
+Pokemon Move|Dig
+Pokemon Move|Disable
+Pokemon Move|Disarming Voice
+Pokemon Move|Discharge
+Pokemon Move|Dive
+Pokemon Move|Dizzy Punch
+Pokemon Move|Doom Desire
+Pokemon Move|Double Hit
+Pokemon Move|Double Iron Bash
+Pokemon Move|Double Kick
+Pokemon Move|Double Slap
+Pokemon Move|Double Team
+Pokemon Move|Double-Edge
+Pokemon Move|Draco Meteor
+Pokemon Move|Dragon Ascent
+Pokemon Move|Dragon Breath
+Pokemon Move|Dragon Claw
+Pokemon Move|Dragon Dance
+Pokemon Move|Dragon Darts
+Pokemon Move|Dragon Hammer
+Pokemon Move|Dragon Pulse
+Pokemon Move|Dragon Rage
+Pokemon Move|Dragon Rush
+Pokemon Move|Dragon Tail
+Pokemon Move|Drain Punch
+Pokemon Move|Draining Kiss
+Pokemon Move|Dream Eater
+Pokemon Move|Drill Peck
+Pokemon Move|Drill Run
+Pokemon Move|Drum Beating
+Pokemon Move|Dual Chop
+Pokemon Move|Dynamax Cannon
+Pokemon Move|Dynamic Punch
+Pokemon Move|Earth Power
+Pokemon Move|Earthquake
+Pokemon Move|Echoed Voice
+Pokemon Move|Eerie Impulse
+Pokemon Move|Egg Bomb
+Pokemon Move|Electric Terrain
+Pokemon Move|Electrify
+Pokemon Move|Electro Ball
+Pokemon Move|Electroweb
+Pokemon Move|Embargo
+Pokemon Move|Ember
+Pokemon Move|Encore
+Pokemon Move|Endeavor
+Pokemon Move|Endure
+Pokemon Move|Energy Ball
+Pokemon Move|Entrainment
+Pokemon Move|Eruption
+Pokemon Move|Eternabeam
+Pokemon Move|Excavate
+Pokemon Move|Explosion
+Pokemon Move|Extrasensory
+Pokemon Move|Extreme Evoboost
+Pokemon Move|Extreme Speed
+Pokemon Move|Facade
+Pokemon Move|Fairy Lock
+Pokemon Move|Fairy Wind
+Pokemon Move|Fake Out
+Pokemon Move|Fake Tears
+Pokemon Move|False Surrender
+Pokemon Move|False Swipe
+Pokemon Move|Feather Dance
+Pokemon Move|Feint
+Pokemon Move|Feint Attack
+Pokemon Move|Fell Stinger
+Pokemon Move|Fiery Dance
+Pokemon Move|Final Gambit
+Pokemon Move|Fire Fang
+Pokemon Move|Fire Lash
+Pokemon Move|Fire Pledge
+Pokemon Move|Fire Spin
+Pokemon Move|First Impression
+Pokemon Move|Fishious Rend
+Pokemon Move|Fissure
+Pokemon Move|Flail
+Pokemon Move|Flame Burst
+Pokemon Move|Flame Charge
+Pokemon Move|Flame Wheel
+Pokemon Move|Flamethrower
+Pokemon Move|Flare Blitz
+Pokemon Move|Flash
+Pokemon Move|Flash Cannon
+Pokemon Move|Flatter
+Pokemon Move|Fleur Cannon
+Pokemon Move|Fling
+Pokemon Move|Floaty Fall
+Pokemon Move|Floral Healing
+Pokemon Move|Flower Shield
+Pokemon Move|Fly
+Pokemon Move|Flying Press
+Pokemon Move|Focus Blast
+Pokemon Move|Focus Energy
+Pokemon Move|Focus Punch
+Pokemon Move|Follow Me
+Pokemon Move|Force Palm
+Pokemon Move|Foresight
+Pokemon Move|Forest's Curse
+Pokemon Move|Foul Play
+Pokemon Move|Freeze Shock
+Pokemon Move|Freeze-Dry
+Pokemon Move|Freezy Frost
+Pokemon Move|Frenzy Plant
+Pokemon Move|Frost Breath
+Pokemon Move|Frustration
+Pokemon Move|Fury Attack
+Pokemon Move|Fury Cutter
+Pokemon Move|Fury Swipes
+Pokemon Move|Fusion Bolt
+Pokemon Move|Fusion Flare
+Pokemon Move|Future Sight
+Pokemon Move|G-Max Befuddle
+Pokemon Move|G-Max Centiferno
+Pokemon Move|G-Max Chi Strike
+Pokemon Move|G-Max Cuddle
+Pokemon Move|G-Max Depletion
+Pokemon Move|G-Max Finale
+Pokemon Move|G-Max Foam Burst
+Pokemon Move|G-Max Gold Rush
+Pokemon Move|G-Max Gravitas
+Pokemon Move|G-Max Malodor
+Pokemon Move|G-Max Meltdown
+Pokemon Move|G-Max Replenish
+Pokemon Move|G-Max Resonance
+Pokemon Move|G-Max Sandblast
+Pokemon Move|G-Max Smite
+Pokemon Move|G-Max Snooze
+Pokemon Move|G-Max Steelsurge
+Pokemon Move|G-Max Stonesurge
+Pokemon Move|G-Max Stun Shock
+Pokemon Move|G-Max Sweetness
+Pokemon Move|G-Max Tartness
+Pokemon Move|G-Max Terror
+Pokemon Move|G-Max Volcalith
+Pokemon Move|G-Max Volt Crash
+Pokemon Move|G-Max Wildfire
+Pokemon Move|G-Max Wind Rage
+Pokemon Move|Gastro Acid
+Pokemon Move|Gear Grind
+Pokemon Move|Gear Up
+Pokemon Move|Genesis Supernova
+Pokemon Move|Geomancy
+Pokemon Move|Giga Drain
+Pokemon Move|Giga Impact
+Pokemon Move|Gigavolt Havoc
+Pokemon Move|Glaciate
+Pokemon Move|Glare
+Pokemon Move|Glitzy Glow
+Pokemon Move|Grass Knot
+Pokemon Move|Grass Pledge
+Pokemon Move|Grass Whistle
+Pokemon Move|Grassy Terrain
+Pokemon Move|Grav Apple
+Pokemon Move|Gravity
+Pokemon Move|Growl
+Pokemon Move|Growth
+Pokemon Move|Grudge
+Pokemon Move|Guard Split
+Pokemon Move|Guard Swap
+Pokemon Move|Guardian of Alola
+Pokemon Move|Guillotine
+Pokemon Move|Gunk Shot
+Pokemon Move|Gust
+Pokemon Move|Gyro Ball
+Pokemon Move|Hail
+Pokemon Move|Hammer Arm
+Pokemon Move|Happy Hour
+Pokemon Move|Harden
+Pokemon Move|Haze
+Pokemon Move|Head Charge
+Pokemon Move|Head Smash
+Pokemon Move|Headbutt
+Pokemon Move|Heal Bell
+Pokemon Move|Heal Block
+Pokemon Move|Heal Order
+Pokemon Move|Heal Pulse
+Pokemon Move|Healing Wish
+Pokemon Move|Heart Stamp
+Pokemon Move|Heart Swap
+Pokemon Move|Heat Crash
+Pokemon Move|Heat Wave
+Pokemon Move|Heavy Slam
+Pokemon Move|Helping Hand
+Pokemon Move|Hex
+Pokemon Move|Hidden Power
+Pokemon Move|High Horsepower
+Pokemon Move|High Jump Kick
+Pokemon Move|Hold Back
+Pokemon Move|Hold Hands
+Pokemon Move|Hone Claws
+Pokemon Move|Horn Attack
+Pokemon Move|Horn Drill
+Pokemon Move|Horn Leech
+Pokemon Move|Howl
+Pokemon Move|Hurricane
+Pokemon Move|Hydro Cannon
+Pokemon Move|Hydro Pump
+Pokemon Move|Hydro Vortex
+Pokemon Move|Hyper Beam
+Pokemon Move|Hyper Fang
+Pokemon Move|Hyper Voice
+Pokemon Move|Hyperspace Fury
+Pokemon Move|Hyperspace Hole
+Pokemon Move|Hypnosis
+Pokemon Move|Ice Ball
+Pokemon Move|Ice Beam
+Pokemon Move|Ice Burn
+Pokemon Move|Ice Fang
+Pokemon Move|Ice Hammer
+Pokemon Move|Ice Punch
+Pokemon Move|Ice Shard
+Pokemon Move|Icicle Crash
+Pokemon Move|Icicle Spear
+Pokemon Move|Icy Wind
+Pokemon Move|Imprison
+Pokemon Move|Incinerate
+Pokemon Move|Inferno
+Pokemon Move|Inferno Overdrive
+Pokemon Move|Infestation
+Pokemon Move|Ingrain
+Pokemon Move|Instruct
+Pokemon Move|Ion Deluge
+Pokemon Move|Iron Defense
+Pokemon Move|Iron Head
+Pokemon Move|Iron Tail
+Pokemon Move|Jaw Lock
+Pokemon Move|Judgment
+Pokemon Move|Jump Kick
+Pokemon Move|Karate Chop
+Pokemon Move|Kinesis
+Pokemon Move|King's Shield
+Pokemon Move|Knock Off
+Pokemon Move|Land's Wrath
+Pokemon Move|Laser Focus
+Pokemon Move|Last Resort
+Pokemon Move|Lava Plume
+Pokemon Move|Leaf Blade
+Pokemon Move|Leaf Storm
+Pokemon Move|Leaf Tornado
+Pokemon Move|Leafage
+Pokemon Move|Leech Life
+Pokemon Move|Leech Seed
+Pokemon Move|Leer
+Pokemon Move|Let's Snuggle Forever
+Pokemon Move|Lick
+Pokemon Move|Life Dew
+Pokemon Move|Light Screen
+Pokemon Move|Light That Burns the Sky
+Pokemon Move|Light of Ruin
+Pokemon Move|Liquidation
+Pokemon Move|Lock-On
+Pokemon Move|Lovely Kiss
+Pokemon Move|Low Kick
+Pokemon Move|Low Sweep
+Pokemon Move|Lucky Chant
+Pokemon Move|Lunar Dance
+Pokemon Move|Lunge
+Pokemon Move|Luster Purge
+Pokemon Move|Mach Punch
+Pokemon Move|Magic Coat
+Pokemon Move|Magic Powder
+Pokemon Move|Magic Room
+Pokemon Move|Magical Leaf
+Pokemon Move|Magma Storm
+Pokemon Move|Magnet Bomb
+Pokemon Move|Magnet Rise
+Pokemon Move|Magnetic Flux
+Pokemon Move|Magnitude
+Pokemon Move|Malicious Moonsault
+Pokemon Move|Mat Block
+Pokemon Move|Max Airstream
+Pokemon Move|Max Darkness
+Pokemon Move|Max Flare
+Pokemon Move|Max Flutterby
+Pokemon Move|Max Geyser
+Pokemon Move|Max Guard
+Pokemon Move|Max Hailstorm
+Pokemon Move|Max Knuckle
+Pokemon Move|Max Lightning
+Pokemon Move|Max Mindstorm
+Pokemon Move|Max Ooze
+Pokemon Move|Max Overgrowth
+Pokemon Move|Max Phantasm
+Pokemon Move|Max Quake
+Pokemon Move|Max Rockfall
+Pokemon Move|Max Starfall
+Pokemon Move|Max Steelspike
+Pokemon Move|Max Strike
+Pokemon Move|Max Wyrmwind
+Pokemon Move|Me First
+Pokemon Move|Mean Look
+Pokemon Move|Meditate
+Pokemon Move|Mega Drain
+Pokemon Move|Mega Kick
+Pokemon Move|Mega Punch
+Pokemon Move|Megahorn
+Pokemon Move|Memento
+Pokemon Move|Menacing Moonraze Maelstrom
+Pokemon Move|Metal Burst
+Pokemon Move|Metal Claw
+Pokemon Move|Metal Sound
+Pokemon Move|Meteor Assault
+Pokemon Move|Meteor Mash
+Pokemon Move|Metronome
+Pokemon Move|Milk Drink
+Pokemon Move|Mimic
+Pokemon Move|Mind Blown
+Pokemon Move|Mind Reader
+Pokemon Move|Minimize
+Pokemon Move|Miracle Eye
+Pokemon Move|Mirror Coat
+Pokemon Move|Mirror Move
+Pokemon Move|Mirror Shot
+Pokemon Move|Mist
+Pokemon Move|Mist Ball
+Pokemon Move|Misty Terrain
+Pokemon Move|Moonblast
+Pokemon Move|Moongeist Beam
+Pokemon Move|Moonlight
+Pokemon Move|Morning Sun
+Pokemon Move|Mud Bomb
+Pokemon Move|Mud Shot
+Pokemon Move|Mud Sport
+Pokemon Move|Mud-Slap
+Pokemon Move|Muddy Water
+Pokemon Move|Multi-Attack
+Pokemon Move|Mystical Fire
+Pokemon Move|Nasty Plot
+Pokemon Move|Natural Gift
+Pokemon Move|Nature Power
+Pokemon Move|Nature's Madness
+Pokemon Move|Needle Arm
+Pokemon Move|Never-Ending Nightmare
+Pokemon Move|Night Daze
+Pokemon Move|Night Shade
+Pokemon Move|Night Slash
+Pokemon Move|Nightmare
+Pokemon Move|No Retreat
+Pokemon Move|Noble Roar
+Pokemon Move|Nuzzle
+Pokemon Move|Oblivion Wing
+Pokemon Move|Obstruct
+Pokemon Move|Oceanic Operetta
+Pokemon Move|Octazooka
+Pokemon Move|Octolock
+Pokemon Move|Odor Sleuth
+Pokemon Move|Ominous Wind
+Pokemon Move|Origin Pulse
+Pokemon Move|Outrage
+Pokemon Move|Overdrive
+Pokemon Move|Overheat
+Pokemon Move|Pain Split
+Pokemon Move|Parabolic Charge
+Pokemon Move|Parting Shot
+Pokemon Move|Pay Day
+Pokemon Move|Payback
+Pokemon Move|Peck
+Pokemon Move|Perish Song
+Pokemon Move|Petal Blizzard
+Pokemon Move|Petal Dance
+Pokemon Move|Phantom Force
+Pokemon Move|Photon Geyser
+Pokemon Move|Pika Papow
+Pokemon Move|Pin Missle
+Pokemon Move|Plasma Fists
+Pokemon Move|Play Nice
+Pokemon Move|Play Rough
+Pokemon Move|Pluck
+Pokemon Move|Poison Fang
+Pokemon Move|Poison Gas
+Pokemon Move|Poison Jab
+Pokemon Move|Poison Powder
+Pokemon Move|Poison Sting
+Pokemon Move|Poison Tail
+Pokemon Move|Pollen Puff
+Pokemon Move|Pound
+Pokemon Move|Powder
+Pokemon Move|Powder Snow
+Pokemon Move|Power Gem
+Pokemon Move|Power Split
+Pokemon Move|Power Swap
+Pokemon Move|Power Trick
+Pokemon Move|Power Trip
+Pokemon Move|Power Whip
+Pokemon Move|Power-Up Punch
+Pokemon Move|Precipice Blades
+Pokemon Move|Present
+Pokemon Move|Prismatic Laser
+Pokemon Move|Protect
+Pokemon Move|Psybeam
+Pokemon Move|Psych Up
+Pokemon Move|Psychic
+Pokemon Move|Psychic Fangs
+Pokemon Move|Psychic Terrain
+Pokemon Move|Psycho Boost
+Pokemon Move|Psycho Cut
+Pokemon Move|Psycho Shift
+Pokemon Move|Psyshock
+Pokemon Move|Psystrike
+Pokemon Move|Psywave
+Pokemon Move|Pulverizing Pancake
+Pokemon Move|Punishment
+Pokemon Move|Purify
+Pokemon Move|Pursuit
+Pokemon Move|Pyro Ball
+Pokemon Move|Quash
+Pokemon Move|Quick Attack
+Pokemon Move|Quick Guard
+Pokemon Move|Quiver Dance
+Pokemon Move|Rage
+Pokemon Move|Rage Powder
+Pokemon Move|Rain Dance
+Pokemon Move|Rapid Spin
+Pokemon Move|Razor Leaf
+Pokemon Move|Razor Shell
+Pokemon Move|Razor Wind
+Pokemon Move|Recover
+Pokemon Move|Recycle
+Pokemon Move|Reflect
+Pokemon Move|Reflect Type
+Pokemon Move|Refresh
+Pokemon Move|Relic Song
+Pokemon Move|Rest
+Pokemon Move|Retaliate
+Pokemon Move|Return
+Pokemon Move|Revelation Dance
+Pokemon Move|Revenge
+Pokemon Move|Reversal
+Pokemon Move|Roar
+Pokemon Move|Roar of Time
+Pokemon Move|Rock Blast
+Pokemon Move|Rock Climb
+Pokemon Move|Rock Polish
+Pokemon Move|Rock Slide
+Pokemon Move|Rock Smash
+Pokemon Move|Rock Throw
+Pokemon Move|Rock Tomb
+Pokemon Move|Rock Wrecker
+Pokemon Move|Role Play
+Pokemon Move|Rolling kick
+Pokemon Move|Rollout
+Pokemon Move|Roost
+Pokemon Move|Rototiller
+Pokemon Move|Round
+Pokemon Move|Sacred Fire
+Pokemon Move|Sacred Sword
+Pokemon Move|Safeguard
+Pokemon Move|Sand Attack
+Pokemon Move|Sand Tomb
+Pokemon Move|Sandstorm
+Pokemon Move|Sappy Seed
+Pokemon Move|Savage Spin-Out
+Pokemon Move|Scald
+Pokemon Move|Scary Face
+Pokemon Move|Scratch
+Pokemon Move|Screech
+Pokemon Move|Searing Shot
+Pokemon Move|Searing Sunraze Smash
+Pokemon Move|Secret Power
+Pokemon Move|Secret Sword
+Pokemon Move|Seed Bomb
+Pokemon Move|Seed Flare
+Pokemon Move|Seismic Toss
+Pokemon Move|Self-Destruct
+Pokemon Move|Shadow Ball
+Pokemon Move|Shadow Bone
+Pokemon Move|Shadow Claw
+Pokemon Move|Shadow Force
+Pokemon Move|Shadow Punch
+Pokemon Move|Shadow Sneak
+Pokemon Move|Sharpen
+Pokemon Move|Shattered Psyche
+Pokemon Move|Sheer Cold
+Pokemon Move|Shell Smash
+Pokemon Move|Shell Trap
+Pokemon Move|Shift Gear
+Pokemon Move|Shock Wave
+Pokemon Move|Shore Up
+Pokemon Move|Signal Beam
+Pokemon Move|Silver Wind
+Pokemon Move|Simple Beam
+Pokemon Move|Sing
+Pokemon Move|Sinister Arrow Raid
+Pokemon Move|Sizzly Slide
+Pokemon Move|Sketch
+Pokemon Move|Skill Swap
+Pokemon Move|Skull Bash
+Pokemon Move|Sky Attack
+Pokemon Move|Sky Drop
+Pokemon Move|Sky Uppercut
+Pokemon Move|Slack Off
+Pokemon Move|Slam
+Pokemon Move|Slash
+Pokemon Move|Sleep Powder
+Pokemon Move|Sleep Talk
+Pokemon Move|Sludge
+Pokemon Move|Sludge Bomb
+Pokemon Move|Sludge Wave
+Pokemon Move|Smack Down
+Pokemon Move|Smart Strike
+Pokemon Move|Smelling Salts
+Pokemon Move|Smog
+Pokemon Move|Smokescreen
+Pokemon Move|Snap Trap
+Pokemon Move|Snarl
+Pokemon Move|Snatch
+Pokemon Move|Snipe Shot
+Pokemon Move|Snore
+Pokemon Move|Soak
+Pokemon Move|Soft-Boiled
+Pokemon Move|Solar Beam
+Pokemon Move|Solar Blade
+Pokemon Move|Sonic Boom
+Pokemon Move|Soul-Stealing 7-Star Strike
+Pokemon Move|Spacial Rend
+Pokemon Move|Spark
+Pokemon Move|Sparkling Aria
+Pokemon Move|Sparkly Swirl
+Pokemon Move|Spectral Thief
+Pokemon Move|Speed Swap
+Pokemon Move|Spider Web
+Pokemon Move|Spike Cannon
+Pokemon Move|Spikes
+Pokemon Move|Spiky Shield
+Pokemon Move|Spin Slash
+Pokemon Move|Spirit Break
+Pokemon Move|Spirit Shackle
+Pokemon Move|Spit Up
+Pokemon Move|Spite
+Pokemon Move|Splash
+Pokemon Move|Splintered Stormshards
+Pokemon Move|Splishy Splash
+Pokemon Move|Spore
+Pokemon Move|Spotlight
+Pokemon Move|Stealth Rock
+Pokemon Move|Steam Eruption
+Pokemon Move|Steamroller
+Pokemon Move|Steel Beam
+Pokemon Move|Steel Wing
+Pokemon Move|Sticky Web
+Pokemon Move|Stockpile
+Pokemon Move|Stoked Sparksurfer
+Pokemon Move|Stomp
+Pokemon Move|Stomping Tantrum
+Pokemon Move|Stone Edge
+Pokemon Move|Stored Power
+Pokemon Move|Storm Throw
+Pokemon Move|Strange Steam
+Pokemon Move|Strength
+Pokemon Move|Strength Sap
+Pokemon Move|String Shot
+Pokemon Move|Struggle
+Pokemon Move|Struggle Bug
+Pokemon Move|Stuff Cheeks
+Pokemon Move|Stun Spore
+Pokemon Move|Submission
+Pokemon Move|Substitute
+Pokemon Move|Subzero Slammer
+Pokemon Move|Sucker Punch
+Pokemon Move|Sunny Day
+Pokemon Move|Sunsteel Strike
+Pokemon Move|Super Fang
+Pokemon Move|Superpower
+Pokemon Move|Supersonic
+Pokemon Move|Supersonic Skystrike
+Pokemon Move|Surf
+Pokemon Move|Swagger
+Pokemon Move|Swallow
+Pokemon Move|Sweet Kiss
+Pokemon Move|Sweet Scent
+Pokemon Move|Swift
+Pokemon Move|Switcheroo
+Pokemon Move|Swords Dance
+Pokemon Move|Synchronoise
+Pokemon Move|Synthesis
+Pokemon Move|Tackle
+Pokemon Move|Tail Glow
+Pokemon Move|Tail Slap
+Pokemon Move|Tail Whip
+Pokemon Move|Tailwind
+Pokemon Move|Take Down
+Pokemon Move|Tar Shot
+Pokemon Move|Taunt
+Pokemon Move|Tearful Look
+Pokemon Move|Teatime
+Pokemon Move|Techno Blast
+Pokemon Move|Tectonic Rage
+Pokemon Move|Teeter Dance
+Pokemon Move|Telekinesis
+Pokemon Move|Teleport
+Pokemon Move|Thief
+Pokemon Move|Thousand Arrows
+Pokemon Move|Thousand Waves
+Pokemon Move|Thrash
+Pokemon Move|Throat Chop
+Pokemon Move|Thunder
+Pokemon Move|Thunder Fang
+Pokemon Move|Thunder Punch
+Pokemon Move|Thunder Shock
+Pokemon Move|Thunder Wave
+Pokemon Move|Thunderbolt
+Pokemon Move|Tickle
+Pokemon Move|Topsy-Turvy
+Pokemon Move|Torment
+Pokemon Move|Toxic
+Pokemon Move|Toxic Spikes
+Pokemon Move|Toxic Thread
+Pokemon Move|Transform
+Pokemon Move|Tri Attack
+Pokemon Move|Trick
+Pokemon Move|Trick Room
+Pokemon Move|Trick-or-Treat
+Pokemon Move|Triple Kick
+Pokemon Move|Trop Kick
+Pokemon Move|Trump Card
+Pokemon Move|Twineedle
+Pokemon Move|Twinkle Tackle
+Pokemon Move|Twister
+Pokemon Move|U-turn
+Pokemon Move|Uproar
+Pokemon Move|V-create
+Pokemon Move|Vacuum Wave
+Pokemon Move|Vacuum-Cut
+Pokemon Move|Veevee Volley
+Pokemon Move|Venom Drench
+Pokemon Move|Venoshock
+Pokemon Move|Vice Grip
+Pokemon Move|Vine Whip
+Pokemon Move|Vital Throw
+Pokemon Move|Volt Switch
+Pokemon Move|Volt Tackle
+Pokemon Move|Wake-Up Slap
+Pokemon Move|Water Gun
+Pokemon Move|Water Pledge
+Pokemon Move|Water Pulse
+Pokemon Move|Water Shuriken
+Pokemon Move|Water Sport
+Pokemon Move|Water Spout
+Pokemon Move|Waterfall
+Pokemon Move|Weather Ball
+Pokemon Move|Whirlpool
+Pokemon Move|Whirlwind
+Pokemon Move|Wide Guard
+Pokemon Move|Wide Slash
+Pokemon Move|Wild Charge
+Pokemon Move|Will-O-Wisp
+Pokemon Move|Wing Attack
+Pokemon Move|Wish
+Pokemon Move|Withdraw
+Pokemon Move|Wonder Room
+Pokemon Move|Wood Hammer
+Pokemon Move|Work Up
+Pokemon Move|Worry Seed
+Pokemon Move|Wrap
+Pokemon Move|Wring Out
+Pokemon Move|X-Scissor
+Pokemon Move|Yawn
+Pokemon Move|Zap Cannon
+Pokemon Move|Zen Headbutt
+Pokemon Move|Zing Zap
+Pokemon Move|Zippy Zap
+Pokemon City/Town|Accumula
+Pokemon City/Town|Ambrette
+Pokemon City/Town|Anistar
+Pokemon City/Town|Anville
+Pokemon City/Town|Aquacorde
+Pokemon City/Town|Aspertia
+Pokemon City/Town|Azalea
+Pokemon City/Town|Ballonlea
+Pokemon City/Town|Black
+Pokemon City/Town|Blackthorn
+Pokemon City/Town|Camphrier
+Pokemon City/Town|Canalave
+Pokemon City/Town|Castelia
+Pokemon City/Town|Celadon
+Pokemon City/Town|Celestic
+Pokemon City/Town|Cerulean
+Pokemon City/Town|Cherrygrove
+Pokemon City/Town|Cianwood
+Pokemon City/Town|Circhester
+Pokemon City/Town|Coumarine
+Pokemon City/Town|Couriway
+Pokemon City/Town|Cyllage
+Pokemon City/Town|Dendemille
+Pokemon City/Town|Dewford
+Pokemon City/Town|Driftveil
+Pokemon City/Town|Ecruteak
+Pokemon City/Town|Eterna
+Pokemon City/Town|Ever Grande
+Pokemon City/Town|Fallarbor
+Pokemon City/Town|Floaroma
+Pokemon City/Town|Floccesy
+Pokemon City/Town|Fortree
+Pokemon City/Town|Fuchsia
+Pokemon City/Town|Geosenge
+Pokemon City/Town|Goldenrod
+Pokemon City/Town|Hammerlocke
+Pokemon City/Town|Hau'oli
+Pokemon City/Town|Heahea
+Pokemon City/Town|Hearthome
+Pokemon City/Town|Hulbury
+Pokemon City/Town|Humilau
+Pokemon City/Town|Icirrus
+Pokemon City/Town|Iki
+Pokemon City/Town|Jubilife
+Pokemon City/Town|Kiloude
+Pokemon City/Town|Konikoni
+Pokemon City/Town|Lacunosa
+Pokemon City/Town|Lavaridge
+Pokemon City/Town|Lavender
+Pokemon City/Town|Laverre
+Pokemon City/Town|Lentimas
+Pokemon City/Town|Lilycove
+Pokemon City/Town|Littleroot
+Pokemon City/Town|Lumiose
+Pokemon City/Town|Mahogany
+Pokemon City/Town|Malie
+Pokemon City/Town|Mauville
+Pokemon City/Town|Mistralton
+Pokemon City/Town|Mossdeep
+Pokemon City/Town|Motostoke
+Pokemon City/Town|Nacrene
+Pokemon City/Town|New Bark
+Pokemon City/Town|Nimbasa
+Pokemon City/Town|Nuvema
+Pokemon City/Town|Oldale
+Pokemon City/Town|Olivine
+Pokemon City/Town|Opelucid
+Pokemon City/Town|Oreburgh
+Pokemon City/Town|Pacifidlog
+Pokemon City/Town|Pallet
+Pokemon City/Town|Paniola
+Pokemon City/Town|Pastoria
+Pokemon City/Town|Petalburg
+Pokemon City/Town|Pewter
+Pokemon City/Town|Po
+Pokemon City/Town|Postwick
+Pokemon City/Town|Rustboro
+Pokemon City/Town|Saffron
+Pokemon City/Town|Sandgem
+Pokemon City/Town|Santalune
+Pokemon City/Town|Shalour
+Pokemon City/Town|Slateport
+Pokemon City/Town|Snowbelle
+Pokemon City/Town|Snowpoint
+Pokemon City/Town|Solaceon
+Pokemon City/Town|Sootopolis
+Pokemon City/Town|Spikemuth
+Pokemon City/Town|Stow-on-Side
+Pokemon City/Town|Striaton
+Pokemon City/Town|Sunyshore
+Pokemon City/Town|Turffield
+Pokemon City/Town|Twinleaf
+Pokemon City/Town|Undella
+Pokemon City/Town|Vaniville
+Pokemon City/Town|Veilstone
+Pokemon City/Town|Verdanturf
+Pokemon City/Town|Vermillion
+Pokemon City/Town|Violet
+Pokemon City/Town|Virbank
+Pokemon City/Town|Viridian
+Pokemon City/Town|Wedgehurst
+Pokemon City/Town|Wyndon
+Pokemon Location|Abandoned Ship
+Pokemon Location|Abundant Shrine
+Pokemon Location|Acuity Lakefront
+Pokemon Location|Aether Paradise
+Pokemon Location|Akala Outskirts
+Pokemon Location|Altar of the Moone
+Pokemon Location|Altar of the Sunne
+Pokemon Location|Altering Cave
+Pokemon Location|Amity Square
+Pokemon Location|Ancient Poni Path
+Pokemon Location|Ancient Tomb
+Pokemon Location|Artisan Cave
+Pokemon Location|Azure Bay
+Pokemon Location|Battle Chateau
+Pokemon Location|Battle Frontier
+Pokemon Location|Battle Maison
+Pokemon Location|Battle Resort
+Pokemon Location|Battle Tower
+Pokemon Location|Bell Tower
+Pokemon Location|Berry Forest
+Pokemon Location|Berry Fields
+Pokemon Location|Big Stadium
+Pokemon Location|Bike Shop
+Pokemon Location|Birth Island
+Pokemon Location|Blush Mountain
+Pokemon Location|Bond Bridge
+Pokemon Location|Brooklet Hill
+Pokemon Location|Burned Tower
+Pokemon Location|Canyon Entrance
+Pokemon Location|Cape Brink
+Pokemon Location|Castelia Sewers
+Pokemon Location|Cave of Origin
+Pokemon Location|Celadon Department Store
+Pokemon Location|Celadon Game Corner
+Pokemon Location|Celadon Mansion
+Pokemon Location|Celestial Tower
+Pokemon Location|Cerulean Cape
+Pokemon Location|Cerulean Cave
+Pokemon Location|Challenger's Cave
+Pokemon Location|Chamber of Emptiness
+Pokemon Location|Chargestone Cave
+Pokemon Location|Cinnabar Island
+Pokemon Location|Citadark Isle
+Pokemon Location|Clay Tunnel
+Pokemon Location|Cliff Cave
+Pokemon Location|Cliff Edge Gate
+Pokemon Location|Cold Storage
+Pokemon Location|Connecting Cave
+Pokemon Location|Cove Lily Motel
+Pokemon Location|Crescent Isle
+Pokemon Location|Dark Cave
+Pokemon Location|Desert Resort
+Pokemon Location|Desert Ruins
+Pokemon Location|Desert Underpass
+Pokemon Location|Devon Corporation
+Pokemon Location|Diglett's Cave
+Pokemon Location|Diglett's Tunnel
+Pokemon Location|Distortion World
+Pokemon Location|Dividing Peak Tunnel
+Pokemon Location|Dotted Hole
+Pokemon Location|Dragon's Den
+Pokemon Location|Dragonspiral Tower
+Pokemon Location|Dreamyard
+Pokemon Location|Driftveil Drawbridge
+Pokemon Location|Embedded Tower
+Pokemon Location|Eterna Forest
+Pokemon Location|Exeggutor Island
+Pokemon Location|Fabled Cave
+Pokemon Location|Faraway Island
+Pokemon Location|Fiery Path
+Pokemon Location|Fight Area
+Pokemon Location|Five Island
+Pokemon Location|Five Isle Meadow
+Pokemon Location|Floaroma Meadow
+Pokemon Location|Floccesy Ranch
+Pokemon Location|Flower Paradise
+Pokemon Location|Four Island
+Pokemon Location|Friend Safari
+Pokemon Location|Frontier Access
+Pokemon Location|Frost Cavern
+Pokemon Location|Fuego Ironworks
+Pokemon Location|Fullmoon Island
+Pokemon Location|Giant Chasm
+Pokemon Location|Glitter Lighthouse
+Pokemon Location|Glittering Cave
+Pokemon Location|Global Terminal
+Pokemon Location|Gnarled Den
+Pokemon Location|Goldenrod Department Store
+Pokemon Location|Goldenrod Game Corner
+Pokemon Location|Goldenrod Tunnel
+Pokemon Location|Granite Cave
+Pokemon Location|Great Marsh
+Pokemon Location|Green Path
+Pokemon Location|Haina Desert
+Pokemon Location|Hall of Origin
+Pokemon Location|Hano Beach
+Pokemon Location|Hau'oli Cemetery
+Pokemon Location|Heahea Beach
+Pokemon Location|Ice Path
+Pokemon Location|Icefall Cave
+Pokemon Location|Ilex Forest
+Pokemon Location|Indigo Plateau
+Pokemon Location|Iron Island
+Pokemon Location|Island Cave
+Pokemon Location|Jagged Pass
+Pokemon Location|Joyful Game Corner
+Pokemon Location|Jubilife TV
+Pokemon Location|Kala'e Bay
+Pokemon Location|Kalos Power Plant
+Pokemon Location|Kindle Road
+Pokemon Location|Lake Acuity
+Pokemon Location|Lake Valor
+Pokemon Location|Lake Verity
+Pokemon Location|Lake of Rage
+Pokemon Location|Lake of the Moone
+Pokemon Location|Lake of the Sunne
+Pokemon Location|Liberty Garden
+Pokemon Location|Lilycove Department Store
+Pokemon Location|Lilycove Museum
+Pokemon Location|Lost Cave
+Pokemon Location|Lost Hotel
+Pokemon Location|Lost Tower
+Pokemon Location|Lostlorn Forest
+Pokemon Location|Lush Jungle
+Pokemon Location|Lysandre Labs
+Pokemon Location|Mahalo Trail
+Pokemon Location|Malie Garden
+Pokemon Location|Maniac Tunnel
+Pokemon Location|Marine Cave
+Pokemon Location|Marvelous Bridge
+Pokemon Location|Mauville Game Corner
+Pokemon Location|Megalo Tower
+Pokemon Location|Melemele Meadow
+Pokemon Location|Melemele Sea
+Pokemon Location|Memorial Hill
+Pokemon Location|Memorial Pillar
+Pokemon Location|Meteor Falls
+Pokemon Location|Mirage Cave
+Pokemon Location|Mirage Forest
+Pokemon Location|Mirage Island
+Pokemon Location|Mirage Mountain
+Pokemon Location|Mirage Tower
+Pokemon Location|Mistralton Cave
+Pokemon Location|Moomoo Farm
+Pokemon Location|Moor of Icirrus
+Pokemon Location|Mossdeep Space Center
+Pokemon Location|Mount Hokulani
+Pokemon Location|Mount Lanakila
+Pokemon Location|Mt. Chimney
+Pokemon Location|Mt. Coronet
+Pokemon Location|Mt. Ember
+Pokemon Location|Mt. Moon
+Pokemon Location|Mt. Moon Square
+Pokemon Location|Mt. Mortar
+Pokemon Location|Mt. Pyre
+Pokemon Location|Mt. Silver
+Pokemon Location|N's Castle
+Pokemon Location|Nameless Cavern
+Pokemon Location|National Park
+Pokemon Location|Nature Preserve
+Pokemon Location|Navel Rock
+Pokemon Location|New Mauville
+Pokemon Location|Newmoon Island
+Pokemon Location|Oceanic Museum
+Pokemon Location|Old Chateau
+Pokemon Location|One Island
+Pokemon Location|Oreburgh Gate
+Pokemon Location|Oreburgh Mine
+Pokemon Location|Oreburgh Mining Museum
+Pokemon Location|Outcast Island
+Pokemon Location|P2 Laboratory
+Pokemon Location|Pal Park
+Pokemon Location|Paniola Ranch
+Pokemon Location|Parfum Palace
+Pokemon Location|Pathless Plain
+Pokemon Location|Pattern Bush
+Pokemon Location|Petalburg Woods
+Pokemon Location|Pewter Museum of Science
+Pokemon Location|Pick a Peck of Colors Flower Shop
+Pokemon Location|Pinwheel Forest
+Pokemon Location|Pledge Grove
+Pokemon Location|Poke Ball Factory
+Pokemon Location|Poke Pelago
+Pokemon Location|Pokemon Communication Center
+Pokemon Location|Pokemon League
+Pokemon Location|Pokemon League Reception Gate
+Pokemon Location|Pokemon Mansion
+Pokemon Location|Pokemon Tower
+Pokemon Location|Pokemon Trainers' School
+Pokemon Location|Pokemon Village
+Pokemon Location|Pokestar Studios
+Pokemon Location|Poni Breaker Coast
+Pokemon Location|Poni Coast
+Pokemon Location|Poni Gauntlet
+Pokemon Location|Poni Grove
+Pokemon Location|Poni Meadow
+Pokemon Location|Poni Plains
+Pokemon Location|Poni Wilds
+Pokemon Location|Power Plant
+Pokemon Location|Pretty Petal flower shop
+Pokemon Location|Rad Rickshaw's Cycle Shop
+Pokemon Location|Radio Tower
+Pokemon Location|Ravaged Path
+Pokemon Location|Reflection Cave
+Pokemon Location|Relic Castle
+Pokemon Location|Relic Passage
+Pokemon Location|Resolution Cave
+Pokemon Location|Resort Area
+Pokemon Location|Resort Gorgeous
+Pokemon Location|Reversal Mountain
+Pokemon Location|Ribbon Syndicate
+Pokemon Location|Rock Tunnel
+Pokemon Location|Royal Avenue
+Pokemon Location|Ruin Valley
+Pokemon Location|Ruins of Abundance
+Pokemon Location|Ruins of Alph
+Pokemon Location|Ruins of Conflict
+Pokemon Location|Ruins of Hope
+Pokemon Location|Ruins of Life
+Pokemon Location|Rusturf Tunnel
+Pokemon Location|Rydel's Cycles
+Pokemon Location|S.S. Anne
+Pokemon Location|S.S. Aqua
+Pokemon Location|S.S. Tidal
+Pokemon Location|Safari Zone
+Pokemon Location|Safari Zone Gate
+Pokemon Location|Sandy Cave
+Pokemon Location|Santalune Forest
+Pokemon Location|Scorched Slab
+Pokemon Location|Sea Cottage
+Pokemon Location|Sea Mauville
+Pokemon Location|Sea Spirit's Den
+Pokemon Location|Seafloor Cavern
+Pokemon Location|Seafoam Islands
+Pokemon Location|Seafolk Village
+Pokemon Location|Sealed Chamber
+Pokemon Location|Seaside Cave
+Pokemon Location|Seaside Cycling Road
+Pokemon Location|Seaward Cave
+Pokemon Location|Secret Islet
+Pokemon Location|Secret Meadow
+Pokemon Location|Secret Shore
+Pokemon Location|Sendoff Spring
+Pokemon Location|Sevault Canyon
+Pokemon Location|Seven Island
+Pokemon Location|Shoal Cave
+Pokemon Location|Silph Co.
+Pokemon Location|Sinjoh Ruins
+Pokemon Location|Six Island
+Pokemon Location|Sky Pillar
+Pokemon Location|Slowpoke Well
+Pokemon Location|Small Court
+Pokemon Location|Snowpoint Temple
+Pokemon Location|Soaring in the sky
+Pokemon Location|Solaceon Ruins
+Pokemon Location|Southern Island
+Pokemon Location|Spear Pillar
+Pokemon Location|Sprout Tower
+Pokemon Location|Stark Mountain
+Pokemon Location|Stern's Shipyard
+Pokemon Location|Strange House
+Pokemon Location|Survival Area
+Pokemon Location|Tanoby Chambers
+Pokemon Location|Tanoby Ruins
+Pokemon Location|Tapu Village
+Pokemon Location|Team Aqua Hideout
+Pokemon Location|Team Flare Secret HQ
+Pokemon Location|Team Magma Hideout
+Pokemon Location|Team Rocket HQ
+Pokemon Location|Team Rocket Hideout
+Pokemon Location|Team Rocket's Castle
+Pokemon Location|Ten Carat Hill
+Pokemon Location|Terminus Cave
+Pokemon Location|Terra Cave
+Pokemon Location|The Underground
+Pokemon Location|Three Island
+Pokemon Location|Three Isle Port
+Pokemon Location|Thrifty Megamart
+Pokemon Location|Tohjo Falls
+Pokemon Location|Tower of Mastery
+Pokemon Location|Trackless Forest
+Pokemon Location|Trainer Hill
+Pokemon Location|Trainer Tower
+Pokemon Location|Trainers' School
+Pokemon Location|Treasure Beach
+Pokemon Location|Trick House
+Pokemon Location|Trophy Garden
+Pokemon Location|Turnback Cave
+Pokemon Location|Twist Mountain
+Pokemon Location|Two Island
+Pokemon Location|Ula'ula Beach
+Pokemon Location|Ula'ula Meadow
+Pokemon Location|Ultra Crater
+Pokemon Location|Ultra Deep Sea
+Pokemon Location|Ultra Desert
+Pokemon Location|Ultra Forest
+Pokemon Location|Ultra Jungle
+Pokemon Location|Ultra Megalopolis
+Pokemon Location|Ultra Plant
+Pokemon Location|Ultra Ruin
+Pokemon Location|Ultra Space Wilds
+Pokemon Location|Undella Bay
+Pokemon Location|Underground Path
+Pokemon Location|Underground Ruins
+Pokemon Location|Underwater
+Pokemon Location|Union Cave
+Pokemon Location|Unknown Dungeon
+Pokemon Location|Valley Windworks
+Pokemon Location|Valor Lakefront
+Pokemon Location|Vast Poni Canyon
+Pokemon Location|Veilstone Department Store
+Pokemon Location|Veilstone Game Corner
+Pokemon Location|Verdant Cavern	
+Pokemon Location|Victory Road
+Pokemon Location|Village Bridge
+Pokemon Location|Virbank Complex
+Pokemon Location|Viridian Forest
+Pokemon Location|Vista Lighthouse
+Pokemon Location|Water Labyrinth
+Pokemon Location|Water Path
+Pokemon Location|Wayward Cave
+Pokemon Location|Weather Institute
+Pokemon Location|Wela Volcano Park
+Pokemon Location|Wellspring Cave
+Pokemon Location|Whirl Islands
+Pokemon Location|White Forest
+Pokemon Location|White Treehollow
+Pokemon Side Location|Tiny Woods
+Pokemon Side Location|Thunderwave Cave
+Pokemon Side Location|Mt. Steel
+Pokemon Side Location|Sinister Woods
+Pokemon Side Location|Silent Chasm
+Pokemon Side Location|Mt. Thunder
+Pokemon Side Location|Great Canyon
+Pokemon Side Location|Lapis Cave
+Pokemon Side Location|Mt. Blaze
+Pokemon Side Location|Frosty Forest
+Pokemon Side Location|Mt. Freeze
+Pokemon Side Location|Magma Cavern
+Pokemon Side Location|Sky Tower
+Pokemon Side Location|Uproar Forest
+Pokemon Side Location|Stormy Sea
+Pokemon Side Location|Silver Trench
+Pokemon Side Location|Meteor Cave
+Pokemon Side Location|Fiery Field
+Pokemon Side Location|Lightning Field
+Pokemon Side Location|Northwind Field
+Pokemon Side Location|Mt. Faraway
+Pokemon Side Location|Western Cave
+Pokemon Side Location|Northern Range
+Pokemon Side Location|Pitfall Valley
+Pokemon Side Location|Buried Relic
+Pokemon Side Location|Wish Cave
+Pokemon Side Location|Murky Cave
+Pokemon Side Location|Solar Cave
+Pokemon Side Location|Waterfall Pond
+Pokemon Side Location|Joyous Tower
+Pokemon Side Location|Purity Forest
+Pokemon Side Location|Howling Forest
+Pokemon Side Location|Desert Region
+Pokemon Side Location|Southern Cavern
+Pokemon Side Location|Wyvern Hill
+Pokemon Side Location|Darknight Relic
+Pokemon Side Location|Grand Sea
+Pokemon Side Location|Unown Relic
+Pokemon Side Location|Far-Off Sea
+Pokemon Side Location|Normal Maze
+Pokemon Side Location|Fire Maze
+Pokemon Side Location|Water Maze
+Pokemon Side Location|Grass Maze
+Pokemon Side Location|Electric Maze
+Pokemon Side Location|Ice Maze
+Pokemon Side Location|Fighting Maze
+Pokemon Side Location|Ground Maze
+Pokemon Side Location|Flying Maze
+Pokemon Side Location|Psychic Maze
+Pokemon Side Location|Poison Maze
+Pokemon Side Location|Bug Maze
+Pokemon Side Location|Rock Maze
+Pokemon Side Location|Ghost Maze
+Pokemon Side Location|Dragon Maze
+Pokemon Side Location|Dark Maze
+Pokemon Side Location|Steel Maze
+Pokemon Side Location|Fairy Maze
+Pokemon Side Location|Team Hydro
+Pokemon Side Location|Team Shiftry
+Pokemon Side Location|Team Constrictor
+Pokemon Side Location|Team Rumblerock
+Pokemon Side Location|Rock Path
+Pokemon Side Location|Snow Path
+Pokemon Side Location|Oddity Cave
+Pokemon Side Location|Remains Island
+Pokemon Side Location|Marvelous Sea
+Pokemon Side Location|Fantasy Strait
+Pokemon Side Location|Rescue Team Maze
+Pokemon Side Location|Illusory Grotto
+Pokemon Side Location|Aegis Cave
+Pokemon Side Location|Amp Plains
+Pokemon Side Location|Apple Woods
+Pokemon Side Location|Barren Valley
+Pokemon Side Location|Beach Cave
+Pokemon Side Location|Blizzard Island
+Pokemon Side Location|Bottomless Sea
+Pokemon Side Location|Boulder Quarry
+Pokemon Side Location|Brine Cave
+Pokemon Side Location|Challenge River
+Pokemon Side Location|Craggy Coast
+Pokemon Side Location|Crevice Cave
+Pokemon Side Location|Crystal Cave
+Pokemon Side Location|Crystal Crossing
+Pokemon Side Location|Dark Hill
+Pokemon Side Location|Dark Ice Mountain
+Pokemon Side Location|Dark Wasteland
+Pokemon Side Location|Deep Dusk Forest
+Pokemon Side Location|Destiny Tower
+Pokemon Side Location|Drenched Bluff
+Pokemon Side Location|Dusk Forest
+Pokemon Side Location|Eastern Cave
+Pokemon Side Location|Final Maze
+Pokemon Side Location|Fogbound Lake
+Pokemon Side Location|Foggy Forest
+Pokemon Side Location|Forest Path
+Pokemon Side Location|Fortune Ravine
+Pokemon Side Location|Frozen Island
+Pokemon Side Location|Giant Volcano
+Pokemon Side Location|Guiding Sea
+Pokemon Side Location|Happy Outlook
+Pokemon Side Location|Hidden Land
+Pokemon Side Location|Hidden Shopkeeper Village
+Pokemon Side Location|Hot Spring
+Pokemon Side Location|Icicle Forest
+Pokemon Side Location|Inferno Cave
+Pokemon Side Location|Labyrinth Cave
+Pokemon Side Location|Lake Afar
+Pokemon Side Location|Landslide Cave
+Pokemon Side Location|Left Cave Path
+Pokemon Side Location|Limestone Cavern
+Pokemon Side Location|Little Plains
+Pokemon Side Location|Lost Wilderness
+Pokemon Side Location|Luminous Spring
+Pokemon Side Location|Lush Prairie
+Pokemon Side Location|Midnight Forest
+Pokemon Side Location|Miracle Sea
+Pokemon Side Location|Mt. Avalanche
+Pokemon Side Location|Mt. Bristle
+Pokemon Side Location|Mt. Clear
+Pokemon Side Location|Mt. Horn
+Pokemon Side Location|Mt. Mistral
+Pokemon Side Location|Mt. Travail
+Pokemon Side Location|Murky Forest
+Pokemon Side Location|Mystery Jungle
+Pokemon Side Location|Mystifying Forest
+Pokemon Side Location|Nightmare
+Pokemon Side Location|Northern Desert
+Pokemon Side Location|Oblivion Forest
+Pokemon Side Location|Oran Forest
+Pokemon Side Location|Pelipper Island
+Pokemon Side Location|Quicksand Cave
+Pokemon Side Location|Right Cave Path
+Pokemon Side Location|Sealed Ruin
+Pokemon Side Location|Secret Bazaar
+Pokemon Side Location|Serenity River
+Pokemon Side Location|Sharpedo Bluff
+Pokemon Side Location|Shaymin Village
+Pokemon Side Location|Shimmer Desert
+Pokemon Side Location|Shimmer Hill
+Pokemon Side Location|Side Path
+Pokemon Side Location|Sky Peak
+Pokemon Side Location|Sky Peak Mountain Path
+Pokemon Side Location|Sky Stairway
+Pokemon Side Location|Southeastern Islands
+Pokemon Side Location|Southern Jungle
+Pokemon Side Location|Spacial Cliffs
+Pokemon Side Location|Spacial Rift
+Pokemon Side Location|Spinda's Cafe
+Pokemon Side Location|Spring Cave
+Pokemon Side Location|Star Cave
+Pokemon Side Location|Steam Cave
+Pokemon Side Location|Surrounded Sea
+Pokemon Side Location|Temporal Tower
+Pokemon Side Location|Tiny Meadow
+Pokemon Side Location|Treacherous Waters
+Pokemon Side Location|Treeshroud Forest
+Pokemon Side Location|Trial Forest
+Pokemon Side Location|Vast Ice Mountain
+Pokemon Side Location|Wigglytuff's Guild
+Pokemon Side Location|World Abyss
+Pokemon Side Location|Zero Isle Center
+Pokemon Side Location|Zero Isle North
+Pokemon Side Location|Zero Isle East
+Pokemon Side Location|Zero Isle South
+Pokemon Side Location|Zero Isle West
+Pokemon Side Location|Treasure Town
+Pokemon Side Location|Waterfall Cave
+Pokemon Side Location|Marowak Dojo
+Pokemon Side Location|Ragged Mountain
+Pokemon Side Location|Stony Cave
+Pokemon Side Location|Hazy Pass
+Pokemon Side Location|Stompstump Peak
+Pokemon Side Location|Desolate Canyon
+Pokemon Side Location|Forest Grotto
+Pokemon Side Location|Mountain Pass
+Pokemon Side Location|Inflora Forest
+Pokemon Side Location|Breezy Meadow
+Pokemon Side Location|Tempting Path
+Pokemon Side Location|Crags of Lament
+Pokemon Side Location|Telluric Path
+Pokemon Side Location|Great Glacier
+Pokemon Side Location|Glacial Underpass
+Pokemon Side Location|Glacier Palace
+Pokemon Side Location|Redland Reaches
+Pokemon Side Location|Eastern Savannah
+Pokemon Side Location|Kilionea Road
+Pokemon Side Location|Forest of Shadows
+Pokemon Side Location|Daybreak Ridge
+Pokemon Side Location|Ochre Quarry
+Pokemon Side Location|Withered Savannah
+Pokemon Side Location|Holehills
+Pokemon Side Location|Scorching Desert
+Pokemon Side Location|Tyrian Maze
+Pokemon Side Location|Glacier Palace Eastern Spire
+Pokemon Side Location|Glacier Palace Western Spire
+Pokemon Side Location|Glacier Palace Great Spire
+Pokemon Side Location|Grove of Whispers
+Pokemon Side Location|Freezing Pillar
+Pokemon Side Location|Windy Shoreline
+Pokemon Side Location|Canyon Foot
+Pokemon Side Location|Worldcore
+Pokemon Side Location|Miragesands
+Pokemon Side Location|Silent Tundra
+Pokemon Side Location|Dreamy Island
+Pokemon Side Location|Moonlit Forest
+Pokemon Side Location|Rusty Mountain
+Pokemon Side Location|Jaws of the Abyss
+Pokemon Side Location|Smoking Mountain
+Pokemon Side Location|Cape at the Edge
+Pokemon Side Location|Slumbering Cave
+Pokemon Side Location|Path of No Return
+Pokemon Side Location|Treasure Trove
+Pokemon Side Location|Buried Ruins
+Pokemon Side Location|Eternal Ruins
+Pokemon Side Location|Seasound Ruins
+Pokemon Side Location|Hoarfrost Tower
+Pokemon Side Location|Ivory Peak
+Pokemon Side Location|Obsidian Edge
+Pokemon Side Location|Turbulent Tor
+Pokemon Side Location|Magnagate Dungeon
+Pokemon Side Location|Poke Forest
+Pokemon Side Location|Ivy Park
+Pokemon Side Location|Scalchop Beach
+Pokemon Side Location|Pika Land
+Pokemon Side Location|Skill Treasury
+Pokemon Side Location|Axe Rock
+Pokemon Side Location|Kecleon Bazaar
+Pokemon Side Location|Strongest Trail
+Pokemon Side Location|Mount Tepid
+Pokemon Side Location|Treat Road
+Pokemon Side Location|Ultimate Wilds
+Pokemon Side Location|Serene Village
+Pokemon Side Location|Lively Town
+Pokemon Side Location|Baram Town
+Pokemon Side Location|Capim Town
+Pokemon Side Location|Noe Town
+Pokemon Side Location|Sahra Town
+Pokemon Side Location|Cafe Connection
+Pokemon Side Location|Hawluccha's Slam School
+Pokemon Side Location|Expedition Society
+Pokemon Side Location|Voidlands
+Pokemon Side Location|Tree of Life
+Pokemon Side Location|Open Pass
+Pokemon Side Location|Lush Forest
+Pokemon Side Location|Foreboding Forest
+Pokemon Side Location|Drilbur Coal Mine
+Pokemon Side Location|School Forest
+Pokemon Side Location|Glittering Mountain
+Pokemon Side Location|Nectar Meadow
+Pokemon Side Location|Poliwrath River
+Pokemon Side Location|Ancient Barrow
+Pokemon Side Location|Sheer Mountain Range
+Pokemon Side Location|Gentle Slope Cave
+Pokemon Side Location|Showdown Mountain
+Pokemon Side Location|Revelation Mountain
+Pokemon Side Location|Abyssal Badlands
+Pokemon Side Location|Cave of the Deep
+Pokemon Side Location|Calm Craggy Area
+Pokemon Side Location|Reverse Mountain
+Pokemon Side Location|Purifying Cave
+Pokemon Side Location|Cave of Training
+Pokemon Side Location|Leafy Highlands
+Pokemon Side Location|Headwater Hollow
+Pokemon Side Location|Longfield Cave
+Pokemon Side Location|Sunbathed Garden
+Pokemon Side Location|Serpentine Mountain Trail
+Pokemon Side Location|Electric Wasteland
+Pokemon Side Location|Waterfall Basin Grotto
+Pokemon Side Location|Bustling Valley
+Pokemon Side Location|Pledge Hill
+Pokemon Side Location|Rolling Pass
+Pokemon Side Location|Maze Meadow
+Pokemon Side Location|Thrash Dungeon
+Pokemon Side Location|Uprise Range
+Pokemon Side Location|Stone Field
+Pokemon Side Location|Odd Field
+Pokemon Side Location|Peewee Meadow
+Pokemon Side Location|Mystical Forest
+Pokemon Side Location|Submerged Cave
+Pokemon Side Location|Prehistoric Ruins
+Pokemon Side Location|Spring of Resolve
+Pokemon Side Location|Rough Tunnel
+Pokemon Side Location|Mysterious Plains
+Pokemon Side Location|Small Sand Dune
+Pokemon Side Location|Berry Forest
+Pokemon Side Location|Super Apple Forest
+Pokemon Side Location|Elegant Gorge
+Pokemon Side Location|Moonlit Cave
+Pokemon Side Location|Frosty Tree Steps
+Pokemon Side Location|World Tree
+Pokemon Side Location|Ghost Island
+Pokemon Side Location|Yellow Point
+Pokemon Side Location|Red Point
+Pokemon Side Location|Distress Mountain
+Pokemon Side Location|Forest of Bounty
+Pokemon Side Location|Lake of Enlightenment
+Pokemon Side Location|Aurora's Edge
+Pokemon Side Location|Midnight Sun Gorge
+Pokemon Side Location|Forest of Fairies
+Pokemon Side Location|Flagstone Cave
+Pokemon Side Location|Frozen Mountain
+Pokemon Side Location|Pumpkaboo Forest
+Pokemon Side Location|Frozen Falls
+Pokemon Side Location|Gooey Bog
+Pokemon Side Location|Clear Lake
+Pokemon Side Location|Island of Isolation
+Pokemon Side Location|Meteorite Crater
+Pokemon Side Location|Cape of Wonders
+Pokemon Side Location|Sand Dune of Spirits
+Pokemon Side Location|Apex Mountain
+Pokemon Side Location|Stone Tree Mountain
+Pokemon Side Location|Yellow Sand Labyrinth
+Pokemon Side Location|Valley of Strong Winds
+Pokemon Side Location|Hall of Magic
+Pokemon Side Location|Thirsty Desert
+Pokemon Side Location|Secret Quarry
+Pokemon Side Location|Holey Meadow
+Pokemon Side Location|Snowy Cave
+Pokemon Side Location|Sandy Cave
+Pokemon Side Location|Jewel Road
+Pokemon Side Location|Fossil Excavation
+Pokemon Side Location|Isle of Light
+Pokemon Side Location|Mysterious Geoglyph
+Pokemon Side Location|Golden Suite
+Pokemon Side Location|Fire Island Volcano
+Pokemon Side Location|Road to Primeval Forest
+Pokemon Side Location|Tree of Life: Roots
+Pokemon Side Location|Tree of Life: Trunk
+Pokemon Side Location|Prism Bridge
+Pokemon Side Location|Sea Shrine
+Pokemon Side Location|Altar of Ice
+Pokemon Side Location|Altar of Ice: Depths
+Pokemon Side Location|Ocean Tempest
+Pokemon Side Location|Seafloor Ruins
+Pokemon Side Location|Island of Storms
+Pokemon Side Location|Lake of Mysterious Light
+Pokemon Side Location|Guidance Ruins
+Pokemon Side Location|Pelipper Dungeon: Start
+Pokemon Side Location|Pelipper Dungeon: Middle
+Pokemon Side Location|Pelipper Dungeon: End
+Pokemon Side Location|Meowth In Black
+Pokemon Side Location|My Fair Misdreavus
+Pokemon Side Location|For a Few Boldores More
+Pokemon Side Location|Casameownca
+Pokemon Side Location|Its a Meownderful Life
+Pokemon Side Location|Dusk Factory
+Pokemon Side Location|East Road
+Pokemon Side Location|Fall City
+Pokemon Side Location|Fiore Temple
+Pokemon Side Location|Go-Rock Squad Base
+Pokemon Side Location|Jungle Relic
+Pokemon Side Location|Kisari Plains
+Pokemon Side Location|Krokka Tunnel
+Pokemon Side Location|Lyra Forest
+Pokemon Side Location|North Road
+Pokemon Side Location|Olive Jungle
+Pokemon Side Location|Panula Cave
+Pokemon Side Location|Ringtown
+Pokemon Side Location|Safra Sea
+Pokemon Side Location|Sekra Range
+Pokemon Side Location|Summerland
+Pokemon Side Location|Waterworks
+Pokemon Side Location|Wintown
+Pokemon Side Location|Almia Castle
+Pokemon Side Location|Altru Building
+Pokemon Side Location|Altru Park
+Pokemon Side Location|Altru Tower
+Pokemon Side Location|Boyleland
+Pokemon Side Location|Capture Arena
+Pokemon Side Location|Cargo Ship
+Pokemon Side Location|Chicole Path
+Pokemon Side Location|Chicole Village
+Pokemon Side Location|Chroma Highlands
+Pokemon Side Location|Chroma Road
+Pokemon Side Location|Chroma Ruins
+Pokemon Side Location|Crysta Cave
+Pokemon Side Location|Haruba Desert
+Pokemon Side Location|Haruba Village
+Pokemon Side Location|Hia Valley
+Pokemon Side Location|Hippowdon Temple
+Pokemon Side Location|Ice Lake
+Pokemon Side Location|Marine Cave
+Pokemon Side Location|Oil Field Hideout
+Pokemon Side Location|Peril Cliffs
+Pokemon Side Location|Puel Sea
+Pokemon Side Location|Pueltown
+Pokemon Side Location|Ranger Base
+Pokemon Side Location|Ranger Depot
+Pokemon Side Location|Ranger School
+Pokemon Side Location|Ranger Union
+Pokemon Side Location|School Road
+Pokemon Side Location|Sea of Wailord
+Pokemon Side Location|Shiver Camp
+Pokemon Side Location|Union Road
+Pokemon Side Location|Vien Forest
+Pokemon Side Location|Vientown
+Pokemon Side Location|Volcano Cave
+Pokemon Side Location|Beach
+Pokemon Side Location|Tunnel
+Pokemon Side Location|Volcano
+Pokemon Side Location|River
+Pokemon Side Location|Cave
+Pokemon Side Location|Valley
+Pokemon Side Location|Rainbow Cloud
+Pokemon Side Location|Professor Oak's Laboratory
+Pokemon Side Location|Viridian Forest
+Pokemon Side Location|Ochre Woods
+Pokemon Side Location|Ochre Fishing Spot
+Pokemon Side Location|Springleaf Field
+Pokemon Side Location|Cobalt Fishing Spot
+Pokemon Side Location|Olivine Fishing Spot
+Pokemon Side Location|Cobalt Coast
+Pokemon Side Location|Cobalt Island
+Pokemon Side Location|Olivine Lake
+Pokemon Side Location|Professor Oak's Secret Training
+Pokemon Side Location|Camp Starlight
+Pokemon Side Location|Mt. Snowfall
+Pokemon Side Location|Ruins of Truth
+Pokemon Side Location|Secret Cove
+Pokemon Side Location|Bright Beach
+Pokemon Side Location|Eternal Tower
+Pokemon Side Location|Fiery Furnace
+Pokemon Side Location|Rocky Cave
+Pokemon Side Location|Silent Forest
+Pokemon Side Location|Windy Prairie
+Pokemon Side Location|Battle Royale
+Pokemon Side Location|Toy Town
+Pokemon Side Location|Easterly Town
+Pokemon Side Location|Westerly Town
+Pokemon Side Location|Northerly Town
+Pokemon Side Location|Axle Town
+Pokemon Side Location|Beginner's Park
+Pokemon Side Location|Trailhead Field
+Pokemon Side Location|Seabreeze Trail
+Pokemon Side Location|Echo Valley
+Pokemon Side Location|Challenger's Ground
+Pokemon Side Location|Sun-Dappled Bank
+Pokemon Side Location|Misty Edgewater
+Pokemon Side Location|Soothing Shore
+Pokemon Side Location|Shimmering Lake
+Pokemon Side Location|Rugged Flats
+Pokemon Side Location|Volcanic Slope
+Pokemon Side Location|Firebreathing Mountain
+Pokemon Side Location|Frozen Tundra
+Pokemon Side Location|Everspring Valley
+Pokemon Side Location|Sunny Seashore
+Pokemon Side Location|Fallaway Edge
+Pokemon Side Location|World Axle - Underground Entry
+Pokemon Side Location|World Axle - B1F
+Pokemon Side Location|World Axle - B2F
+Pokemon Side Location|World Axle - Deepest Level
+Pokemon Side Location|World Axle - Upper Levels
+Pokemon Side Location|Meadow
+Pokemon Side Location|Forest
+Pokemon Side Location|Beach
+Pokemon Side Location|Cave
+Pokemon Side Location|Tower
+Pokemon Side Location|Treetops
+Pokemon Side Location|Lake
+Pokemon Side Location|Hauntyard
+Pokemon Side Location|Canyon
+Pokemon Side Location|Desert
+Pokemon Side Location|Autumnwood
+Pokemon Side Location|Lava
+Pokemon Side Location|Factory
+Pokemon Side Location|Glacier
+Pokemon Side Location|Hauntyard
+Pokemon Side Location|Mysterious Fort
+Pokemon Side Location|Filthy Fort
+Pokemon Side Location|Greenleaf Fort
+Pokemon Side Location|Dragonbellow Fort
+Pokemon Side Location|Foreboding Fort
+Pokemon Side Location|Cobalion's Fort 1
+Pokemon Side Location|Cobalion's Fort 2
+Pokemon Side Location|Rusty Fort
+Pokemon Side Location|Dark Rust's Fort
+Pokemon Side Location|Waterside Battlefield
+Pokemon Side Location|Mountain Path Battlefield
+Pokemon Side Location|Rusty Battlefield
+Pokemon Side Location|Ruined Battlefield
+Pokemon Side Location|Cobalion's Castle
+Pokemon Side Location|Shrine of Keys
+Pokemon Side Location|Unown Hideout
+Pokemon Side Location|Dark Legion Base
+Pokemon Side Location|King's Training Area
+Pokemon Side Location|Leafy Expanse
+Pokemon Side Location|Dewdrop Bay
+Pokemon Side Location|Ember Mountains
+Pokemon Side Location|Ruby Volcano
+Pokemon Side Location|Sapphire Sea
+Pokemon Side Location|Gold Plateau
+Pokemon Side Location|Silver Isles
+Pokemon Side Location|Diamond Crater
+Pokemon Side Location|Pearl Marsh
+Pokemon Side Location|Black Realm
+Pokemon Side Location|White Ruins
+Pokemon Side Location|Fairy Land
+Pokemon Side Location|Dark Land
+Pokemon Side Location|Origin Hideaway
+Pokemon Side Location|Starlight Islands
+Pokemon Side Location|Distortion Land
+Pokemon Side Location|Plasma Tundra
+Pokemon Side Location|Legend Terrain
+Pokemon Side Location|Changing Land
+Pokemon Side Location|Gateway Colosseum
+Pokemon Side Location|Main Street Colosseum
+Pokemon Side Location|Waterfall Colosseum
+Pokemon Side Location|Neon Colosseum
+Pokemon Side Location|Crystal Colosseum
+Pokemon Side Location|Sunny Park Colosseum
+Pokemon Side Location|Magma Colosseum
+Pokemon Side Location|Sunset Colosseum
+Pokemon Side Location|Courtyard Colosseum
+Pokemon Side Location|Stargazer Colosseum
+Pokemon Side Location|Lagoon Colosseum
+Pokemon Side Location|Bidoof Ranch
+Pokemon Side Location|Milk Cow Ranch
+Pokemon Side Location|Wild Bull Ranch
+Pokemon Side Location|Magnemite Ranch
+Pokemon Side Location|Wobbuffet Ranch
+Pokemon Side Location|Wool Ranch
+Pokemon Side Location|Underground Ranch
+Pokemon Side Location|Pikachu Ranch
+Pokemon Side Location|Mystic Ranch
+Pokemon Side Location|Small Ranch
+Pokemon Side Location|Trophy Ranch
+Pokemon Side Location|Egg Ranch
+Pokemon Side Location|Polibog Ranch
+Pokemon Side Location|Rosy Ranch
+Pokemon Side Location|Toxic Mouth Ranch
+Pokemon Side Location|Rock Ranch
+Pokemon Side Location|Bug Ranch
+Pokemon Side Location|Amity Ranch
+Pokemon Side Location|Horror Ranch
+Pokemon Side Location|Burmy Ranch
+Pokemon Side Location|Tropical Ranch
+Pokemon Side Location|Evolution Ranch
+Pokemon Side Location|Sweet Scent Ranch
+Pokemon Side Location|Snow Country Ranch
+Pokemon Side Location|Psychic Ranch
+Pokemon Side Location|Airy Ranch
+Pokemon Side Location|Flame Ranch
+Pokemon Side Location|Battle Ranch
+Pokemon Side Location|Dark Ranch
+Pokemon Side Location|Flower Garden Ranch
+Pokemon Side Location|Swarm Ranch
+Pokemon Side Location|Water Ranch
+Pokemon Side Location|Ancient Ranch
+Pokemon Side Location|Electric Ranch
+Pokemon Side Location|Heaven Ranch
+Pokemon Side Location|Earthly Ranch
+Pokemon Side Location|Dragon Ranch
+Pokemon Side Location|Pyrite Colosseum
+Pokemon Side Location|Pyrite Town
+Pokemon Side Location|Realgam Tower
+Pokemon Side Location|Phenac City
+Pokemon Side Location|Outskirt Stand
+Pokemon Side Location|Shadow Pokemon Laboratory
+Pokemon Side Location|Agate Village
+Pokemon Side Location|Mt. Battle
+Pokemon Side Location|Snagem Hideout
+Pokemon Side Location|The Under
+Pokemon Side Location|Outskirt Stand
+Pokemon Side Location|Pyrite Bldg
+Pokemon Side Location|Pyrite Cave
+Pokemon Side Location|Relic Forest
+Pokemon Side Location|Shadow Pkmn Lab
+Pokemon Side Location|Pokemon HQ Lab
+Pokemon Side Location|Kaminko's House
+Pokemon Side Location|Gateon Port
+Pokemon Side Location|Mystery Facility
+Pokemon Side Location|Rock Poke Spot
+Pokemon Side Location|Oasis Poke Spot
+Pokemon Side Location|Cave Poke Spot
+Pokemon Side Location|S.S. Libra
+Pokemon Side Location|Cipher Key Lair
+Pokemon Side Location|Citadark Isle
+Pokemon Side Location|Aurora
+Pokemon Side Location|Ignis
+Pokemon Side Location|Greenleaf
+Pokemon Side Location|Fontaine
+Pokemon Side Location|Pugilis
+Pokemon Side Location|Violight
+Pokemon Side Location|Chrysalia
+Pokemon Side Location|Terrera
+Pokemon Side Location|Illusio
+Pokemon Side Location|Cragspur
+Pokemon Side Location|Viperia
+Pokemon Side Location|Yaksha
+Pokemon Side Location|Avia
+Pokemon Side Location|Valora
+Pokemon Side Location|Spectra
+Pokemon Side Location|Nixtorm
+Pokemon Side Location|Dragnor
+Pokemon Side Location|Ryme City
+Pokemon Side Location|Tahnti Station
+Pokemon Side Location|Hi-Hat Cafe
+Pokemon Side Location|Litwick Cave
+Pokemon Side Location|Baker Detective Agency
+Pokemon Side Location|Pokemon Comprehensive Laboratory
+Pokemon Side Location|Cappucci Island
+Pokemon Side Location|GNN
+Pokemon Side Location|Fine Park
+Pokemon Side Location|Ryme Wharf
+Pokemon Side Location|S.S. Prime Treasure
+Pokemon Side Location|Meadow Zone
+Pokemon Side Location|Meeting Place
+Pokemon Side Location|Beach Zone
+Pokemon Side Location|Iceberg Zone
+Pokemon Side Location|Cavern Zone
+Pokemon Side Location|Lava Zone
+Pokemon Side Location|Haunted Zone
+Pokemon Side Location|Granite Zone
+Pokemon Side Location|Flower Zone
+Pokemon Side Location|Cake Zone
+Pokemon Side Location|Seasong Beach
+Pokemon Side Location|Seasong Beach Lighthouse
+Pokemon Side Location|Cove Town
+Pokemon Side Location|Windmill Way
+Pokemon Side Location|Verdant Court
+Pokemon Side Location|Hollow Tree Stump
+Pokemon Side Location|Dance Zone
+Pokemon Side Location|Rockridge Fort
+Pokemon Side Location|Power Zone
+Pokemon Side Location|Train Depot
+Pokemon Side Location|Unawarehouse
+Pokemon Side Location|Flight Zone
+Pokemon Side Location|Wish Palace
+Pokemon Side Location|Cove Area
+Pokemon Side Location|Arbor Area
+Pokemon Side Location|Crag Area
+Pokemon Side Location|Tech Area
+Pokemon Side Location|Scientorium
+Pokemon Side Location|Lab
+Pokemon Side Location|Cave
+Pokemon Side Location|Blue Dome
+Pokemon Side Location|Dark Colosseum
+Pokemon Side Location|Diggersby Land
+Pokemon Side Location|Dragon's Nest
+Pokemon Side Location|Ferrum Dojo
+Pokemon Side Location|Ferrum Stadium
+Pokemon Side Location|Haunted House
+Pokemon Side Location|Magikarp Festival
+Pokemon Side Location|Mystery Carnival
+Pokemon Side Location|Neos City
+Pokemon Side Location|Old Ferrum Town
+Pokemon Side Location|Phos Volcano
+Pokemon Side Location|Regi Ruins
+Pokemon Side Location|Snow Gift
+Pokemon Side Location|Tellur Town
+Pokemon Side Location|Thalia Beach
+Pokemon Side Location|Training Gym
+Pokemon Side Location|Fire Club
+Pokemon Side Location|Science Club
+Pokemon Side Location|Psychic Club
+Pokemon Side Location|Rock Club
+Pokemon Side Location|Lightning Club
+Pokemon Side Location|Fighting Club
+Pokemon Side Location|Water Club
+Pokemon Side Location|Grass Club
+Pokemon Side Location|Pokemon Dome
+Pokemon Side Location|Challenge Hall
+Pokemon Side Location|Ishihara's House
+Pokemon Side Location|Mason Laboratory
+Pokemon Side Location|Airport
+Pokemon Side Location|GR Grass Fortress
+Pokemon Side Location|GR Electric Fortress
+Pokemon Side Location|GR Water Fortress
+Pokemon Side Location|GR Fire Fortress
+Pokemon Side Location|GR Fighting Fortress
+Pokemon Side Location|GR Psychic Fortress
+Pokemon Side Location|Colorless Altar
+Pokemon Side Location|GR Castle
+Pokemon Side Location|Game Center
+Pokemon Side Location|Sealed Fortress
+
+
+
+
+Notable Trainers|Brock
+Notable Trainers|Misty
+Notable Trainers|Lt. Surge
+Notable Trainers|Erika
+Notable Trainers|Koga
+Notable Trainers|Janine
+Notable Trainers|Sabrina
+Notable Trainers|Blaine
+Notable Trainers|Giovanni
+Notable Trainers|Blue
+Notable Trainers|Falkner
+Notable Trainers|Bugsy
+Notable Trainers|Whitney
+Notable Trainers|Morty
+Notable Trainers|Chuck
+Notable Trainers|Jasmine
+Notable Trainers|Pryce
+Notable Trainers|Clair
+Notable Trainers|Roxanne
+Notable Trainers|Brawly
+Notable Trainers|Wattson
+Notable Trainers|Flannery
+Notable Trainers|Norman
+Notable Trainers|Winona
+Notable Trainers|Tate and Liza
+Notable Trainers|Wallace
+Notable Trainers|Juan
+Notable Trainers|Roark
+Notable Trainers|Gardenia
+Notable Trainers|Maylene
+Notable Trainers|Crasher Wake
+Notable Trainers|Fantina
+Notable Trainers|Byron
+Notable Trainers|Candice
+Notable Trainers|Volkner
+Notable Trainers|Cilan
+Notable Trainers|Chili
+Notable Trainers|Cress
+Notable Trainers|Lenora
+Notable Trainers|Burgh
+Notable Trainers|Elesa
+Notable Trainers|Clay
+Notable Trainers|Skyla
+Notable Trainers|Brycen
+Notable Trainers|Drayden
+Notable Trainers|Iris
+Notable Trainers|Cheren
+Notable Trainers|Roxie
+Notable Trainers|Marlon
+Notable Trainers|Viola
+Notable Trainers|Grant
+Notable Trainers|Korrina
+Notable Trainers|Ramos
+Notable Trainers|Clemont
+Notable Trainers|Valerie
+Notable Trainers|Olympia
+Notable Trainers|Wulfric
+Notable Trainers|Milo
+Notable Trainers|Nessa
+Notable Trainers|Kabu
+Notable Trainers|Bea
+Notable Trainers|Allister
+Notable Trainers|Opal
+Notable Trainers|Bede
+Notable Trainers|Gordie
+Notable Trainers|Melony
+Notable Trainers|Piers
+Notable Trainers|Marnie
+Notable Trainers|Raihan
+Notable Trainers|Lorelei
+Notable Trainers|Bruno
+Notable Trainers|Agatha
+Notable Trainers|Lance
+Notable Trainers|Will
+Notable Trainers|Karen
+Notable Trainers|Sidney
+Notable Trainers|Phoebe
+Notable Trainers|Glacia
+Notable Trainers|Drake
+Notable Trainers|Aaron
+Notable Trainers|Bertha
+Notable Trainers|Flint
+Notable Trainers|Lucian
+Notable Trainers|Shauntal
+Notable Trainers|Marshal
+Notable Trainers|Grimsley
+Notable Trainers|Caitlin
+Notable Trainers|Malva
+Notable Trainers|Siebold
+Notable Trainers|Wikstrom
+Notable Trainers|Drasna
+Notable Trainers|Hala
+Notable Trainers|Olivia
+Notable Trainers|Acerola
+Notable Trainers|Kahili
+Notable Trainers|Molayne
+Notable Trainers|Steven
+Notable Trainers|Cynthia
+Notable Trainers|Alder
+Notable Trainers|Diantha
+Notable Trainers|Leon
+Notable Trainers|Ilima
+Notable Trainers|Lana
+Notable Trainers|Kiawe
+Notable Trainers|Mallow
+Notable Trainers|Sophocles
+Notable Trainers|Mina
+Notable Trainers|Archie
+Notable Trainers|Maxie
+Notable Trainers|Cyrus
+Notable Trainers|Mars
+Notable Trainers|Jupiter
+Notable Trainers|Saturn
+Notable Trainers|Charon
+Notable Trainers|N
+Notable Trainers|Ghestsis
+Notable Trainers|Gorm
+Notable Trainers|Bronius
+Notable Trainers|Rood
+Notable Trainers|Zinzolin
+Notable Trainers|Giallo
+Notable Trainers|Ryoku
+Notable Trainers|Lysandre
+Notable Trainers|Xerosic
+Notable Trainers|Guzma
+Notable Trainers|Plumeria
+Notable Trainers|Lusamine
+Notable Trainers|Faba
+Notable Trainers|Chairman Rose
+Notable Trainers|Oleana
+Notable Trainers|Hop
+Notable Trainers|Hau
+Notable Trainers|Lillie
+Notable Trainers|Gladion
+Notable Trainers|Trevor
+Notable Trainers|Tierno
+Notable Trainers|Shauna
+Notable Trainers|Serena
+Notable Trainers|Calem
+Notable Trainers|Hugh
+Notable Trainers|Bianca
+Notable Trainers|Cheren
+Notable Trainers|Barry
+Notable Trainers|Wally
+Notable Trainers|Brendan
+Notable Trainers|May
+Notable Trainers|Silver
+Notable Trainers|Trace
+Notable Trainers|Prof. Oak
+Notable Trainers|Prof. Elm
+Notable Trainers|Prof. Birch
+Notable Trainers|Prof. Rowan
+Notable Trainers|Prof. Juniper
+Notable Trainers|Prof. Sycamore
+Notable Trainers|Prof. Kukui
+Notable Trainers|Prof. Magnolia
+Notable Trainers|Prof. Cozmo
+Notable Trainers|Red
+Notable Trainers|Bill
+Notable Trainers|Lanette
+Notable Trainers|Bebe
+Notable Trainers|Amanita
+Notable Trainers|Cassius
+Notable Trainers|Colress
+Notable Trainers|Zinnia
+Notable Trainers|Jordan
+Notable Trainers|Dexter
+Notable Trainers|Keira
+Notable Trainers|Mr. Briney
+Notable Trainers|AZ
+Notable Trainers|Looker
+Notable Trainers|Youngster Joey
+Notable Trainers|Hiker David
+Notable Trainers|Dexio
+Notable Trainers|Sina
+Notable Trainers|Wicke
+Notable Trainers|Ball Guy
+Notable Trainers|Prof. Burnett
+Notable Trainers|Ingo
+Notable Trainers|Emmett
+Notable Trainers|Noland
+Notable Trainers|Greta
+Notable Trainers|Tucker
+Notable Trainers|Lucy
+Notable Trainers|Spenser
+Notable Trainers|Brandon
+Notable Trainers|Anabel
+Notable Trainers|Aarune
+Notable Trainers|Daisy
+Notable Trainers|Mr. Fuji
+Notable Trainers|Palmer
+Notable Trainers|Thorton
+Notable Trainers|Dahlia
+Notable Trainers|Darach
+Notable Trainers|Argenta
+Notable Trainers|Kurt
+Notable Trainers|Mr. Pokemon
+Notable Trainers|Matt
+Notable Trainers|Shelly
+Notable Trainers|Tabitha
+Notable Trainers|Courtney
+Notable Trainers|Shielbert
+Notable Trainers|Sordward
+Notable Trainers|Kuni
+Notable Trainers|Miki
+Notable Trainers|Naoko
+Notable Trainers|Sayo
+Notable Trainers|Zuki
+Notable Trainers|Cheryl
+Notable Trainers|Riley
+Notable Trainers|Buck
+Notable Trainers|Mira
+Notable Trainers|Marley
+Notable Trainers|Proton
+Notable Trainers|Petrel
+Notable Trainers|Ariana
+Notable Trainers|Archer
+Notable Trainers|Jessie
+Notable Trainers|James
+Notable Trainers|Mr. Stone
+Notable Trainers|Emma
+Notable Trainers|Nanu
+Notable Trainers|Hapu
+Notable Trainers|Ryuki
+Notable Trainers|Tristan
+Notable Trainers|Mohn
+Notable Trainers|Celio
+Notable Trainers|Nita
+Notable Trainers|Evelyn
+Notable Trainers|Dana
+Notable Trainers|Morgan
+Notable Trainers|Lisia
+Notable Trainers|Ethan
+Notable Trainers|Kris
+Notable Trainers|Lyra
+Notable Trainers|Leaf
+Notable Trainers|Lucas
+Notable Trainers|Dawn
+Notable Trainers|Hilbert
+Notable Trainers|Hilda
+Notable Trainers|Nate
+Notable Trainers|Rosa
+Notable Trainers|Elio
+Notable Trainers|Selene
+Notable Trainers|Chase
+Notable Trainers|Elaine
+Notable Trainers|Victor
+Notable Trainers|Gloria
+DONE
+
+Pokemon Key Item|Acro Bike
+Pokemon Key Item|Adventure Rules
+Pokemon Key Item|Apricorn Box
+Pokemon Key Item|Aqua Suit
+Pokemon Key Item|AuroraTicket
+Pokemon Key Item|Autograph
+Pokemon Key Item|Basement Key
+Pokemon Key Item|Berry Pots
+Pokemon Key Item|Berry Pouch
+Pokemon Key Item|Bicycle
+Pokemon Key Item|Bike Voucher
+Pokemon Key Item|Blue Card
+Pokemon Key Item|Blue Orb
+Pokemon Key Item|Blue Petal
+Pokemon Key Item|Card Key
+Pokemon Key Item|Claw Fossil
+Pokemon Key Item|Clear Bell
+Pokemon Key Item|Coin Case
+Pokemon Key Item|Colress MCHN
+Pokemon Key Item|Contest Costume
+Pokemon Key Item|Contest Pass
+Pokemon Key Item|Coupon 1
+Pokemon Key Item|Coupon 2
+Pokemon Key Item|Coupon 3
+Pokemon Key Item|DNA Splicers
+Pokemon Key Item|Dark Stone
+Pokemon Key Item|Devon Goods
+Pokemon Key Item|Devon Parts
+Pokemon Key Item|Devon Scope
+Pokemon Key Item|Devon Scuba Gear
+Pokemon Key Item|Dome Fossil
+Pokemon Key Item|Dowsing MCHN
+Pokemon Key Item|Dragon Skull
+Pokemon Key Item|Dropped Item
+Pokemon Key Item|Egg Ticket
+Pokemon Key Item|Elevator Key
+Pokemon Key Item|Enigma Stone
+Pokemon Key Item|Enigmatic Card
+Pokemon Key Item|Eon Flute
+Pokemon Key Item|Eon Ticket
+Pokemon Key Item|Exp. Share
+Pokemon Key Item|Explorer Kit
+Pokemon Key Item|Fame Checker
+Pokemon Key Item|Fashion Case
+Pokemon Key Item|Fishing Rod
+Pokemon Key Item|Forage Bag
+Pokemon Key Item|GB Sounds
+Pokemon Key Item|Galactic Key
+Pokemon Key Item|Go-Goggles
+Pokemon Key Item|Gold Teeth
+Pokemon Key Item|Good Rod
+Pokemon Key Item|Gracidea
+Pokemon Key Item|Gram 1
+Pokemon Key Item|Gram 2
+Pokemon Key Item|Gram 3
+Pokemon Key Item|Green Petal
+Pokemon Key Item|Grubby Hanky
+Pokemon Key Item|Helix Fossil
+Pokemon Key Item|Holo Caster
+Pokemon Key Item|Honor of Kalos
+Pokemon Key Item|Ilima's Normalium Z
+Pokemon Key Item|Intriguing Stone
+Pokemon Key Item|Itemfinder
+Pokemon Key Item|Jade Orb
+Pokemon Key Item|Journal
+Pokemon Key Item|Key Stone
+Pokemon Key Item|Key to Room 1
+Pokemon Key Item|Key to Room 2
+Pokemon Key Item|Key to Room 4
+Pokemon Key Item|Key to Room 6
+Pokemon Key Item|Left Poke Ball
+Pokemon Key Item|Lens Case
+Pokemon Key Item|Letter
+Pokemon Key Item|Liberty Pass
+Pokemon Key Item|Lift Key
+Pokemon Key Item|Light Stone
+Pokemon Key Item|Looker Ticket
+Pokemon Key Item|Lost Item
+Pokemon Key Item|Lunar Wing
+Pokemon Key Item|Mach Bike
+Pokemon Key Item|Machine Part
+Pokemon Key Item|Magma Emblem
+Pokemon Key Item|Magma Stone
+Pokemon Key Item|Magma Suit
+Pokemon Key Item|Makeup Bag
+Pokemon Key Item|Medal Box
+Pokemon Key Item|Mega Bracelet
+Pokemon Key Item|Mega Ring
+Pokemon Key Item|Member Card
+Pokemon Key Item|Meteorite
+Pokemon Key Item|Meteorite Shard
+Pokemon Key Item|Moon Flute
+Pokemon Key Item|Mystery Egg
+Pokemon Key Item|MysticTicket
+Pokemon Key Item|N-Lunarizer
+Pokemon Key Item|N-Solarizer
+Pokemon Key Item|Oak's Letter
+Pokemon Key Item|Oak's Parcel
+Pokemon Key Item|Old Amber
+Pokemon Key Item|Old Charm
+Pokemon Key Item|Old Rod
+Pokemon Key Item|Old Sea Map
+Pokemon Key Item|Orange Petal
+Pokemon Key Item|Oval Charm
+Pokemon Key Item|Pair of Tickets
+Pokemon Key Item|Pal Pad
+Pokemon Key Item|Parcel
+Pokemon Key Item|Pass
+Pokemon Key Item|Permit
+Pokemon Key Item|Pink Petal
+Pokemon Key Item|Plasma Card
+Pokemon Key Item|Poffin Case
+Pokemon Key Item|Point Card
+Pokemon Key Item|Poke Flute
+Pokemon Key Item|Poke Radar
+Pokemon Key Item|Pokeblock Case
+Pokemon Key Item|Pokeblock Kit
+Pokemon Key Item|Powder Jar
+Pokemon Key Item|Power Plant Pass
+Pokemon Key Item|Prison Bottle
+Pokemon Key Item|Prof's Letter
+Pokemon Key Item|Professor's Mask
+Pokemon Key Item|Prop Case
+Pokemon Key Item|Purple Petal
+Pokemon Key Item|RageCandyBar
+Pokemon Key Item|Rainbow Flower
+Pokemon Key Item|Rainbow Pass
+Pokemon Key Item|Rainbow Wing
+Pokemon Key Item|Red Orb
+Pokemon Key Item|Red Petal
+Pokemon Key Item|Red Scale
+Pokemon Key Item|Reveal Glass
+Pokemon Key Item|Rm. 1 Key
+Pokemon Key Item|Rm. 2 Key
+Pokemon Key Item|Rm. 4 Key
+Pokemon Key Item|Rm. 6 Key
+Pokemon Key Item|Roller Skates
+Pokemon Key Item|Root Fossil
+Pokemon Key Item|Ruby
+Pokemon Key Item|S.S. Ticket
+Pokemon Key Item|Sapphire
+Pokemon Key Item|Scanner
+Pokemon Key Item|Seal Case
+Pokemon Key Item|Secret Key
+Pokemon Key Item|SecretPotion
+Pokemon Key Item|Shiny Charm
+Pokemon Key Item|Silph Scope
+Pokemon Key Item|Silver Wing
+Pokemon Key Item|Soot Sack
+Pokemon Key Item|Sparkling Stone
+Pokemon Key Item|Sprayduck
+Pokemon Key Item|Sprinklotad
+Pokemon Key Item|SquirtBottle
+Pokemon Key Item|Storage Key
+Pokemon Key Item|Suite Key
+Pokemon Key Item|Sun Flute
+Pokemon Key Item|Super Rod
+Pokemon Key Item|Surge Badge
+Pokemon Key Item|TM Case
+Pokemon Key Item|TMV Pass
+Pokemon Key Item|Tea
+Pokemon Key Item|Teachy TV
+Pokemon Key Item|Tidal Bell
+Pokemon Key Item|Town Map
+Pokemon Key Item|Tri-Pass
+Pokemon Key Item|Unown Report
+Pokemon Key Item|Vs. Recorder
+Pokemon Key Item|Vs. Seeker
+Pokemon Key Item|Wailmer Pail
+Pokemon Key Item|Wailmer Pail
+Pokemon Key Item|Works Key
+Pokemon Key Item|Xtransceiver
+Pokemon Key Item|Yellow Petal
+Pokemon Key Item|Z-Power Ring
+Pokemon Key Item|Z-Ring
+Pokemon Key Item|Zygarde Cube
+
+Pokemon Name: 889 (Only one Nidoran)
+Pokemon Ability: 258
+Pokemon Moves: 806
+Pokemon Locations: 331
+Pokemon Cities/Towns: 102
+Notable Trainers:
+
+Pokemon Key Items: 176
+
+Gen 8 Key Items/Locations need to be added still
+END OF FILE
