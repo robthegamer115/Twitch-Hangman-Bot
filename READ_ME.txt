@@ -4,7 +4,7 @@ Last Updated August 9, 2020
 by Robthegamer115
 
 1. Setup:
-
+test ;)
 	In order to run this bot, you must have Python 3.8 downloaded and working. Before 
 	you run the twitch bot, you must open up Settings.txt and input your settings. Replace 
 	"OAUTH CODE HERE" with an oauth code for the twitch account of the bot. Replace "BOT NAME HERE" 
